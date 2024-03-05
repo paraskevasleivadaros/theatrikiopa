@@ -63,19 +63,19 @@ const config = {
           src: 'img/logo.svg',
         },
         items: [
-          {
-            type: 'doc',
-            docId: 'intro',
-            position: 'left',
-            label: 'Tutorial',
-          },
-          {to: '/blog', label: 'Blog', position: 'left'},
+          // {
+          //   type: 'doc',
+          //   docId: 'intro',
+          //   position: 'left',
+          //   label: 'Tutorial',
+          // },
           {to: '/ergastiria', label: 'Εργαστήρια', position: 'left'},
           {to: '/parastaseis', label: 'Παραστάσεις', position: 'left'},
           {to: '/about', label: 'Σχετικά Με', position: 'left'},          
-          {to: '/contact', label: 'Επικοινωνία', position: 'left'},        
+          {to: '/contact', label: 'Επικοινωνία', position: 'left'}, 
+          {to: '/blog', label: 'Blog', position: 'left'},
           {
-            href: 'https://github.com/facebook/docusaurus',
+            href: 'https://github.com/theatrikiopa',
             label: 'GitHub',
             position: 'right',
           },
