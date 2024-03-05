@@ -57,7 +57,7 @@ const config = {
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
       navbar: {
-        title: 'My Site',
+        title: 'Θεατρική Ομάδα ΟΠΑ',
         logo: {
           alt: 'My Site Logo',
           src: 'img/logo.svg',
@@ -70,6 +70,10 @@ const config = {
             label: 'Tutorial',
           },
           {to: '/blog', label: 'Blog', position: 'left'},
+          {to: '/ergastiria', label: 'Εργαστήρια', position: 'left'},
+          {to: '/parastaseis', label: 'Παραστάσεις', position: 'left'},
+          {to: '/about', label: 'Σχετικά Με', position: 'left'},          
+          {to: '/contact', label: 'Επικοινωνία', position: 'left'},        
           {
             href: 'https://github.com/facebook/docusaurus',
             label: 'GitHub',
