@@ -119,7 +119,7 @@ const config = {
             ],
           },
           {
-            title: 'More',
+            title: 'Περισσότερα',
             items: [
               {
                 label: 'Blog',
