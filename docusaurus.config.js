@@ -84,29 +84,37 @@ const config = {
       footer: {
         style: 'dark',
         links: [
+          // {
+          //   title: 'Docs',
+          //   items: [
+          //     {
+          //       label: 'Tutorial',
+          //       to: '/docs/intro',
+          //     },
+          //   ],
+          // },
           {
-            title: 'Docs',
+            title: 'Κοινότητα',
             items: [
               {
-                label: 'Tutorial',
-                to: '/docs/intro',
-              },
-            ],
-          },
-          {
-            title: 'Community',
-            items: [
-              {
-                label: 'Stack Overflow',
-                href: 'https://stackoverflow.com/questions/tagged/docusaurus',
+                label: 'Instagram',
+                href: 'https://instagram.com/theatrikiopa',
               },
               {
-                label: 'Discord',
-                href: 'https://discordapp.com/invite/docusaurus',
+                label: 'Facebook',
+                href: 'https://facebook.com/theatrikiopa',
               },
+              {
+                label: 'LinkedIn',
+                href: 'https://linkedin.com/company/theatrikiopa',
+              },
+              {
+                label: 'Youtube',
+                href: 'https://www.youtube.com/@theatrikiopa',
+              },						  
               {
                 label: 'Twitter',
-                href: 'https://twitter.com/docusaurus',
+                href: 'https://twitter.com/theatrikiopa',
               },
             ],
           },
