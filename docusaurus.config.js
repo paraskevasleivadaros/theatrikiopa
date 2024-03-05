@@ -132,7 +132,7 @@ const config = {
             ],
           },
         ],
-        copyright: `Copyright © ${new Date().getFullYear()} Θεατρική Ομάδα ΟΠΑ, Inc. Built with Docusaurus.`,
+        copyright: `Copyright © ${new Date().getFullYear()} Θεατρική Ομάδα ΟΠΑ. Built with Docusaurus.`,
       },
       prism: {
         theme: lightCodeTheme,
