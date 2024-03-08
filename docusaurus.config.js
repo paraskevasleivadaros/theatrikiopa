@@ -7,7 +7,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 /** @type {import('@docusaurus/types').Config} */
 const config = {
   title: 'Θεατρική Ομάδα ΟΠΑ',
-  tagline: 'Dinosaurs are cool',
+  tagline: 'Οικονομικό Πανεπιστήμιο Αθηνών',
   url: 'https://your-docusaurus-test-site.com',
   baseUrl: '/',
   onBrokenLinks: 'throw',
