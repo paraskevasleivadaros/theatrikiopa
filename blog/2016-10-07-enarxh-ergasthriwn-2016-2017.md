@@ -5,7 +5,7 @@ authors:
   name: Paraskevas Leivadaros
   title: AUEB Drama IT Team
   url: https://github.com/paraskevasleivadaros
-  image_url: https://avatars.githubusercontent.com/u/16403754?v=4
+  image_url: https://github.com/paraskevasleivadaros.png
 tags: [εργαστήρια, 2016-2017]
 ---
 
