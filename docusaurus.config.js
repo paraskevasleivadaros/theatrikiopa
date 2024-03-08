@@ -74,11 +74,6 @@ const config = {
           {to: '/about', label: 'Σχετικά Με', position: 'left'},          
           {to: '/contact', label: 'Επικοινωνία', position: 'left'}, 
           {to: '/blog', label: 'Blog', position: 'left'},
-          // {
-          //   href: 'https://github.com/theatrikiopa',
-          //   label: 'GitHub',
-          //   position: 'right',
-          // },
         ],
       },
       footer: {
