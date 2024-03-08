@@ -6,7 +6,7 @@ authors:
   title: AUEB Drama IT Team
   url: https://github.com/paraskevasleivadaros
   image_url: https://avatars.githubusercontent.com/u/16403754?v=4
-tags: [ergasthria, 2016-2017]
+tags: [εργαστήρια, 2016-2017]
 ---
 
 ![kolazthoopa-e1583243746835](https://github.com/theatrikiopa/theatrikiopa.eu/assets/16403754/63e67a25-713a-4715-af78-8dee652f8093)
