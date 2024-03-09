@@ -3,7 +3,7 @@ slug: diakoph-ergasthriwn-2017-2018
 title: Διακοπή Εργαστηρίων 2017-2018
 authors:
   name: Paraskevas Leivadaros
-  title: AUEB Drama IT Team
+  title: AUEB Drama Club IT Team
   url: https://github.com/paraskevasleivadaros
   image_url: https://github.com/paraskevasleivadaros.png
   tags: [ergasthria, 2017-2018]
