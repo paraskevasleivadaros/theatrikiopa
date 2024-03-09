@@ -69,7 +69,14 @@ const config = {
           //   position: 'left',
           //   label: 'Tutorial',
           // },
-          {to: '/ergastiria', label: 'Εργαστήρια', position: 'left'},
+          {
+            to: '/ergastiria',
+            label: 'Εργαστήρια',
+            position: 'left',
+            items: [
+              { label: '2017-2018', to: '/ergastiria/ergastiria-2017-2018' },
+            ],
+          },          
           {to: '/parastaseis', label: 'Παραστάσεις', position: 'left'},
           {to: '/about', label: 'Σχετικά Με', position: 'left'},          
           {to: '/contact', label: 'Επικοινωνία', position: 'left'}, 
