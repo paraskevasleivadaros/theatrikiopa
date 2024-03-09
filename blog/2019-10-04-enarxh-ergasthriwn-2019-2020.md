@@ -3,7 +3,7 @@ slug: enarxh-ergasthriwn-2019-2020
 title: Έναρξη Εργαστηρίων 2019-2020
 authors:
   name: Paraskevas Leivadaros
-  title: AUEB Drama IT Team
+  title: AUEB Drama Club IT Team
   url: https://github.com/paraskevasleivadaros
   image_url: https://github.com/paraskevasleivadaros.png
   tags: [ergasthria, 2019-2020]
