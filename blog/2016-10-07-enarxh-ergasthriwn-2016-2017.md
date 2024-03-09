@@ -3,7 +3,7 @@ slug: enarxh-ergasthriwn-2016-2017
 title: Έναρξη Εργαστηρίων 2016-2017
 authors:
   name: Paraskevas Leivadaros
-  title: AUEB Drama IT Team
+  title: AUEB Drama Club IT Team
   url: https://github.com/paraskevasleivadaros
   image_url: https://github.com/paraskevasleivadaros.png
 tags: [εργαστήρια, 2016-2017]
