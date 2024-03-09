@@ -3,7 +3,7 @@ slug: enarxh-ergasthriwn-2022-2023
 title: Έναρξη Εργαστηρίων 2022-2023
 authors:
   name: Paraskevas Leivadaros
-  title: AUEB Drama IT Team
+  title: AUEB Drama Club IT Team
   url: https://github.com/paraskevasleivadaros
   image_url: https://github.com/paraskevasleivadaros.png
   tags: [ergasthria, 2022-2023]
