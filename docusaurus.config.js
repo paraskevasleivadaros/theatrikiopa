@@ -63,12 +63,12 @@ const config = {
           src: 'img/logo.svg',
         },
         items: [
-          // {
-          //   type: 'doc',
-          //   docId: 'intro',
-          //   position: 'left',
-          //   label: 'Tutorial',
-          // },
+          {
+            type: 'doc',
+            docId: 'intro',
+            position: 'left',
+            label: 'Tutorial',
+          },
           {
             to: '/ergastiria',
             label: 'Εργαστήρια',
@@ -81,28 +81,28 @@ const config = {
               { label: '2022-2023', to: '/ergastiria/ergastiria-2022-2023' },              
             ],
           },          
-          {
-            to: '/parastaseis',
-            label: 'Παραστάσεις',
-            position: 'left',
-            items: [
-              {
-                label: '2023',
-                items: [
-                  { label: 'Γιοί και Κόρες του Γιάννη Καλαβριανού', to: '/parastaseis/2023/gioi-kai-kores-tou-gianni-kalavrianou' },
-                  { label: 'Βία Είναι', to: '/parastaseis/2023/via-einai' },
-                ]
-              },
-              {
-                label: '2022',
-                items: [
-                  { label: 'Κατάρα επί Θήβας', to: '/parastaseis/2022/katara-epi-thivas' },
-                  { label: 'Η Αγία Ιωάννα των Σφαγείων του Bertolt Brecht', to: '/parastaseis/2022/agia-ioanna-ton-sfageion' },
-                ]
-              },
-              // Add more years and their respective performances as needed
-            ],
-          },
+          // {
+          //   to: '/parastaseis',
+          //   label: 'Παραστάσεις',
+          //   position: 'left',
+          //   items: [
+          //     {
+          //       label: '2023',
+          //       items: [
+          //         { label: 'Γιοί και Κόρες του Γιάννη Καλαβριανού', to: '/parastaseis/2023/gioi-kai-kores-tou-gianni-kalavrianou' },
+          //         { label: 'Βία Είναι', to: '/parastaseis/2023/via-einai' },
+          //       ]
+          //     },
+          //     {
+          //       label: '2022',
+          //       items: [
+          //         { label: 'Κατάρα επί Θήβας', to: '/parastaseis/2022/katara-epi-thivas' },
+          //         { label: 'Η Αγία Ιωάννα των Σφαγείων του Bertolt Brecht', to: '/parastaseis/2022/agia-ioanna-ton-sfageion' },
+          //       ]
+          //     },
+          //     // Add more years and their respective performances as needed
+          //   ],
+          // },
           {
             to: '/about',
             label: 'Σχετικά Με',
