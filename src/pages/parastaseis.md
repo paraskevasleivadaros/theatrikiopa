@@ -24,7 +24,7 @@ title: Παραστάσεις
 
 ## 2022
 ![katara-epi-thivas-02](https://github.com/different-ways/theatrikiopa.eu/assets/16403754/69248377-4516-40c3-9639-1f72c1db0119)
-### [Κατάρα επί Θήβας](/parastaseis/2023/katara-epi-thivas)
+### [Κατάρα επί Θήβας](/parastaseis/2022/katara-epi-thivas)
 Σκηνοθεσία: Γαβρίλος Καζάνας, Θίασος ‘Σκυλιά της Λύσσας’
 - Από Μηχανής Θέατρο
 - [16η Διεθνής Πανεπιστημιάδα Θεάτρου | Σέρρες](https://www.dipetheserron.gr/16%CE%B7-%CF%80%CE%B1%CE%BD%CE%B5%CF%80%CE%B9%CF%83%CF%84%CE%B7%CE%BC%CE%B9%CE%AC%CE%B4%CE%B1/item/90-%CF%83%CE%B1%CE%B2%CE%B2%CE%B1%CF%84%CE%BF-28-5-2022-%CF%89%CF%81%CE%B1-21-00)
