@@ -1,5 +1,5 @@
 ---
-id: my-home-doc
+id: home
 slug: /
 ---
 
