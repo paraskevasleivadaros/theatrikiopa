@@ -30,7 +30,7 @@ title: Παραστάσεις
 - [16η Διεθνής Πανεπιστημιάδα Θεάτρου | Σέρρες](https://www.dipetheserron.gr/16%CE%B7-%CF%80%CE%B1%CE%BD%CE%B5%CF%80%CE%B9%CF%83%CF%84%CE%B7%CE%BC%CE%B9%CE%AC%CE%B4%CE%B1/item/90-%CF%83%CE%B1%CE%B2%CE%B2%CE%B1%CF%84%CE%BF-28-5-2022-%CF%89%CF%81%CE%B1-21-00)
 
 ![agia-ioanna-ton-sfageion-08](https://github.com/different-ways/theatrikiopa.eu/assets/16403754/28871f30-bd23-4396-a997-cab2c0fef333)
-### [Η Αγία Ιωάννα των Σφαγείων του Bertolt Brecht](/patrastaseis/agia-ioanna-ton-sfageion)
+### [Η Αγία Ιωάννα των Σφαγείων του Bertolt Brecht](/patrastaseis/2022/agia-ioanna-ton-sfageion)
 Σκηνοθεσία: Βασίλης Ασλανίδης
 - Από Μηχανής Θέατρο
 - [10ο Πανελλήνιο Φεστιβάλ Ερασιτεχνικού Θεάτρου Ιεράπετρας](https://www.ierapetra.gov.gr/news/dimos-ierapetras/anakoinoseis/10%CE%BF-%CF%80%CE%B1%CE%BD%CE%B5%CE%BB%CE%BB%CE%AE%CE%BD%CE%B9%CE%BF-%CF%86%CE%B5%CF%83%CF%84%CE%B9%CE%B2%CE%AC%CE%BB-%CE%B5%CF%81%CE%B1%CF%83%CE%B9%CF%84%CE%B5%CF%87%CE%BD%CE%B9%CE%BA%CE%BF%CF%8D/)
