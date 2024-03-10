@@ -88,9 +88,14 @@ const config = {
             items: [
               { label: '2023', to: '/parastaseis#2023' },
               { label: '2022', to: '/parastaseis#2022' },
-              { label: '2021', to: '/parastaseis#2021' },
-              { label: '2020', to: '/parastaseis#2020' },
-              { label: '2019', to: '/parastaseis#2019' },              
+              { label: '2019', to: '/parastaseis#2019' },
+              { label: '2018', to: '/parastaseis#2019' },
+              { label: '2017', to: '/parastaseis#2019' },
+              { label: '2016', to: '/parastaseis#2019' },
+              { label: '2015', to: '/parastaseis#2019' },
+              { label: '2014', to: '/parastaseis#2019' },
+              { label: '2013', to: '/parastaseis#2019' },  
+              { label: '2012', to: '/parastaseis#2019' },              
             ],
           },            
           {
