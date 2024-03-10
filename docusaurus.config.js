@@ -74,11 +74,11 @@ const config = {
             label: 'Εργαστήρια',
             position: 'left',
             items: [
-              { label: '2017-2018', to: '/ergastiria/ergastiria-2017-2018' },
-              { label: '2018-2019', to: '/ergastiria/ergastiria-2018-2019' },
-              { label: '2019-2020', to: '/ergastiria/ergastiria-2019-2020' },
+              { label: '2022-2023', to: '/ergastiria/ergastiria-2022-2023' },
               { label: '2021-2022', to: '/ergastiria/ergastiria-2021-2022' },
-              { label: '2022-2023', to: '/ergastiria/ergastiria-2022-2023' },              
+              { label: '2019-2020', to: '/ergastiria/ergastiria-2019-2020' },
+              { label: '2018-2019', to: '/ergastiria/ergastiria-2018-2019' },
+              { label: '2017-2018', to: '/ergastiria/ergastiria-2017-2018' },
             ],
           },    
           {
