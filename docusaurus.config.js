@@ -172,15 +172,15 @@ const config = {
               },              
               {
                 label: 'Πολιτική Cookies',
-                to: '/cookies',
+                to: '/about/cookies',
               },
               {
                 label: 'Πολιτική Απορρήτου',
-                to: '/privacy-policy',
+                to: '/about/privacy-policy',
               },
               {
                 label: 'Όροι και Προϋποθέσεις',
-                to: '/terms-and-conditions',
+                to: '/about/terms-and-conditions',
               },              
             ],
           },          
