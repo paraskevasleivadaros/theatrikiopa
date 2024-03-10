@@ -48,6 +48,7 @@ import styles from './index.module.css';
 
 // Define the Home component
 export default function Home() {
+  const {siteConfig} = useDocusaurusContext();
   // Render your page content
   return (
     <Layout title="Θεατρική Ομάδα ΟΠΑ" description="Πληροφορίες για τη Θεατρική Ομάδα του Οικονομικού Πανεπιστημίου Αθηνών">
