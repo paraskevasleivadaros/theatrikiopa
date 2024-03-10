@@ -151,19 +151,6 @@ const config = {
             ],
           },
           {
-            title: 'Περισσότερα',
-            items: [
-              {
-                label: 'Blog',
-                to: '/blog',
-              },
-              {
-                label: 'GitHub',
-                href: 'https://github.com/theatrikiopa',
-              },
-            ],
-          },
-          {
             title: 'Σχετικά με',
             items: [
               {
@@ -182,6 +169,19 @@ const config = {
                 label: 'Όροι και Προϋποθέσεις',
                 to: '/about/terms-and-conditions',
               },              
+            ],
+          },
+          {
+            title: 'Περισσότερα',
+            items: [
+              {
+                label: 'Blog',
+                to: '/blog',
+              },
+              {
+                label: 'GitHub',
+                href: 'https://github.com/theatrikiopa',
+              },
             ],
           },          
         ],
