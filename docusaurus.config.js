@@ -81,7 +81,17 @@ const config = {
               { label: '2022-2023', to: '/ergastiria/ergastiria-2022-2023' },              
             ],
           },          
-          {to: '/parastaseis', label: 'Παραστάσεις', position: 'left'},          
+          {
+            to: '/parastaseis',
+            label: 'Παραστάσεις',
+            position: 'left',
+            items: [
+              { label: 'Γιοί και Κόρες του Γιάννη Καλαβριανού', to: '/parastaseis/2023/gioi-kai-kores-tou-gianni-kalavrianou' },
+              { label: 'Βία Είναι', to: '/parastaseis/2023/via-einai' },
+              { label: 'Κατάρα επί Θήβας', to: '/parastaseis/2022/kata-epi-thivas' },        
+              { label: 'Η Αγία Ιωάννα των Σφαγείων του Bertolt Brecht', to: '/parastaseis/2022/agia-ioanna-ton-sfageion' },                 
+            ],
+          },          
           {
             to: '/about',
             label: 'Σχετικά Με',
