@@ -88,7 +88,7 @@ const config = {
             items: [
               { label: 'Γιοί και Κόρες του Γιάννη Καλαβριανού', to: '/parastaseis/2023/gioi-kai-kores-tou-gianni-kalavrianou' },
               { label: 'Βία Είναι', to: '/parastaseis/2023/via-einai' },
-              { label: 'Κατάρα επί Θήβας', to: '/parastaseis/2022/kata-epi-thivas' },        
+              { label: 'Κατάρα επί Θήβας', to: '/parastaseis/2022/katara-epi-thivas' },        
               { label: 'Η Αγία Ιωάννα των Σφαγείων του Bertolt Brecht', to: '/parastaseis/2022/agia-ioanna-ton-sfageion' },                 
             ],
           },          
