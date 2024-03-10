@@ -110,7 +110,7 @@ const config = {
               { label: 'Τρόπoς Λειτουργίας', to: '/contact/tropos-leitourgias' },                  
             ],
           },            
-          {to: '/blog', label: 'Blog', position: 'left'},
+          {to: '/blog', label: 'Blog', position: 'right'},
         ],
       },
       footer: {
