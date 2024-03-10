@@ -98,17 +98,7 @@ const config = {
               { label: '2013', to: '/parastaseis#2019' },  
               { label: '2012', to: '/parastaseis#2019' },              
             ],
-          },            
-          {
-            to: '/about',
-            label: 'Σχετικά Με',
-            position: 'left',
-            items: [
-              { label: 'Πολιτική Cookies', to: '/about/cookies' },
-              { label: 'Πολιτική Απορρήτου', to: '/about/privacy-policy' },
-              { label: 'Όροι και Προϋποθέσεις', to: '/about/terms-and-conditions' },        
-            ],
-          },          
+          },                   
           {
             to: '/contact',
             label: 'Επικοινωνία',
@@ -176,6 +166,10 @@ const config = {
           {
             title: 'Σχετικά με',
             items: [
+              {
+                label: 'Σκοπός',
+                to: '/about',
+              },              
               {
                 label: 'Πολιτική Cookies',
                 to: '/cookies',
