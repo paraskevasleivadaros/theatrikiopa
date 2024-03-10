@@ -173,6 +173,23 @@ const config = {
               },
             ],
           },
+          {
+            title: 'Σχετικά με',
+            items: [
+              {
+                label: 'Πολιτική Cookies',
+                to: '/cookies',
+              },
+              {
+                label: 'Πολιτική Απορρήτου',
+                to: '/privacy-policy',
+              },
+              {
+                label: 'Όροι και Προϋποθέσεις',
+                to: '/terms-and-conditions',
+              },              
+            ],
+          },          
         ],
         copyright: `Copyright © ${new Date().getFullYear()} Θεατρική Ομάδα ΟΠΑ - Built with Docusaurus`,
       },
