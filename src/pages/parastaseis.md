@@ -12,7 +12,7 @@ title: Παραστάσεις
 
 ## 2023
 ![343020745_762086732041923_4968496298849670101_n](https://github.com/different-ways/theatrikiopa.eu/assets/16403754/42e5cb5b-8d05-47f5-b77c-3b13da5d18be)
-### Γιοί και Κόρες του Γιάννη Καλαβριανού
+### [Γιοί και Κόρες του Γιάννη Καλαβριανού](/parastaseis/2023/gioi-kai-kores-tou-gianni-kalavrianou)
 Σκηνοθεσία: Σπύρος Χαϊντούτης
 - Θέατρο της Ημέρας
 - [17η Διεθνής Πανεπιστημιάδα Θεάτρου | Σέρρες](https://www.dipetheserron.gr/parastaseis19_20/%C2%AB%CE%B3%CE%B9%CE%BF%CE%B9-%CE%BA%CE%B1%CE%B9-%CE%BA%CE%BF%CF%81%CE%B5%CF%83%C2%BB-%CF%84%CE%BF%CF%85-%CE%B3%CE%B9%CE%B1%CE%BD%CE%BD%CE%B7-%CE%BA%CE%B1%CE%BB%CE%B1%CE%B2%CF%81%CE%B9%CE%B1%CE%BD%CE%BF%CF%85)
