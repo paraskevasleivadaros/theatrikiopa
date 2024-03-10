@@ -37,116 +37,116 @@ title: Παραστάσεις
 
 ## 2019
 ![troia06-1024x683](https://github.com/different-ways/theatrikiopa.eu/assets/16403754/ca44828e-7bae-4a68-9e9c-0ff7d666fcfb)
-### [Ο Τρωικός Πόλεμος δεν θα γίνει](/parastaseis/o-troikos-polemos-den-tha-ginei)
+### [Ο Τρωικός Πόλεμος δεν θα γίνει](/parastaseis/2019/o-troikos-polemos-den-tha-ginei)
 Σκηνοθεσία: Γεράσιμος Αρτελάρης
 - Θέατρο Παραμυθίας
 - [15η Διεθνής Πανεπιστημιάδα Θεάτρου | Σέρρες](https://www.dipetheserron.gr/archive/item/42-15%CE%B7-%CF%80%CE%B1%CE%BD%CE%B5%CF%80%CE%B9%CF%83%CF%84%CE%B7%CE%BC%CE%B9%CE%B1%CE%B4%CE%B1-%CE%B8%CE%B5%CE%B1%CF%84%CF%81%CE%BF%CF%85-2019)
 
 ![lidenberg-3-1024x684](https://github.com/different-ways/theatrikiopa.eu/assets/16403754/25d3475f-98b9-45cd-8867-60f9abad5eb9)
-### [Η Πτήση των Λίντμπεργκ ή Το μαύρο κουτί](/parastaseis/lindenberg-flight-mauro-kouti)
+### [Η Πτήση των Λίντμπεργκ ή Το μαύρο κουτί](/parastaseis/2019/lindenberg-flight-mauro-kouti)
 Σκηνοθεσία: Πέγκυ Ψαρρού
 - Θέατρο Παραμυθίας
 
 ![zero-kg-1024x683](https://github.com/different-ways/theatrikiopa.eu/assets/16403754/d87b2db9-4db4-49dd-b053-2099f595d9b0)
-### [Ζυγίζω μηδέν κιλά](/parastaseis/zygizw-mhden-kila)
+### [Ζυγίζω μηδέν κιλά](/parastaseis/2019/zygizw-mhden-kila)
 Σκηνοθεσία: Άρτεμις Βαλτζάκη, Αλέξανδρος Νικητόπουλος
 - Θέατρο Παραμυθίας
 - 16ο Πανελλήνιο Φεστιβάλ Φοιτητικών Θεατρικών Ομάδων | Χανιά
 
 ## 2018
 ![prasino-mili-3-1024x931](https://github.com/different-ways/theatrikiopa.eu/assets/16403754/9a233c2f-d307-4daf-b451-b014a2456e69)
-### [Το Πράσινο Μίλι](/parastaseis/prasino-mili)
+### [Το Πράσινο Μίλι](/parastaseis/2018/prasino-mili)
 Σκηνοθεσία: Βατικιώτης Κωνσταντίνος
 - Θέατρο Έαρ Βικτώρια
 - 15ο Πανελλήνιο Φεστιβάλ Φοιτητικών Θεατρικών Ομάδων | Σύρος
 
 ![μαρά-2-cut-3-1024x679](https://github.com/different-ways/theatrikiopa.eu/assets/16403754/2761449a-52d2-415c-ae10-8b0c525c3fef)
-### [Η Δολοφονία του Jean-Paul Marat](/parastaseis/dolofonia-tou-jean-paul-marat)
+### [Η Δολοφονία του Jean-Paul Marat](/parastaseis/2018/dolofonia-tou-jean-paul-marat)
 Σκηνοθεσία: Βασίλης Ασλανίδης 
 - Θέατρο Έαρ Βικτώρια
 - [14η Διεθνής Πανεπιστημιάδα Θεάτρου | Σέρρες](https://www.dipetheserron.gr/archive/item/41-14%CE%B7-%CF%80%CE%B1%CE%BD%CE%B5%CF%80%CE%B9%CF%83%CF%84%CE%B7%CE%BC%CE%B9%CE%B1%CE%B4%CE%B1-%CE%B8%CE%B5%CE%B1%CF%84%CF%81%CE%BF%CF%85-2018)
 - 8ο Πανελλήνιο Φεστιβάλ Ερασιτεχνικού Θεάτρου Ιεράπετρας
 
 ![4-1024x575](https://github.com/different-ways/theatrikiopa.eu/assets/16403754/b571c6b6-c24a-4216-91b8-7bfc09a312b5)
-### [Το Φαινόμενο της Πεταλούδας](/parastaseis/fainomeno-tis-petaloudas)
+### [Το Φαινόμενο της Πεταλούδας](/parastaseis/2018/fainomeno-tis-petaloudas)
 Σκηνοθεσία: Δημήτρης Μαυρουδής
 - Θέατρο της ΑΣΚΤ
 - 15ο Πανελλήνιο Φεστιβάλ Φοιτητικών Θεατρικών Ομάδων | Σύρος
 
 ## 2017
 ![kontra-2](https://github.com/different-ways/theatrikiopa.eu/assets/16403754/a9cc66eb-ef18-44ed-bc33-084c26bc876d)
-### [Κόντρα στον Έρωτα - Κόντρα στην Πρόοδο](/parastaseis/kontra-ston-erota-kontra-sthn-proodo)
+### [Κόντρα στον Έρωτα - Κόντρα στην Πρόοδο](/parastaseis/2017/kontra-ston-erota-kontra-sthn-proodo)
 Σκηνοθεσία: Θωμάς Χαβιανίδης
 - Θέατρο Βαφείο - Λάκης Κάραλης
 
 ![πατριδα-2-e1583243419301](https://github.com/different-ways/theatrikiopa.eu/assets/16403754/f7ad9c1a-1996-40f6-b768-0c4cf1b0a063)
-### [Σαν πατρίδα Κυριακή μεσημέρι](/parastaseis/san-patrida-kyriakh-meshmeri)
+### [Σαν πατρίδα Κυριακή μεσημέρι](/parastaseis/2017/san-patrida-kyriakh-meshmeri)
 Σκηνοθεσία: Σμαρώ Πλατιώτη
 - Θέατρο Εμπρός
 
 ![avli-plati-e1583243540673](https://github.com/different-ways/theatrikiopa.eu/assets/16403754/944df900-076d-4342-ad4d-d17b70dbc002)
-### [Η Αυλή των Θαυμάτων](/parastaseis/avli-ton-thavmaton)
+### [Η Αυλή των Θαυμάτων](/parastaseis/2017/avli-ton-thavmaton)
 Σκηνοθεσία: Έφη Αντωνάκου
 - Θέατρο Βαφείο / Λάκης Κάραλης
 
 ## 2016
 ![erga-768x444](https://github.com/different-ways/theatrikiopa.eu/assets/16403754/a9059d28-d23d-4d30-b37b-627a7be331ef)
-### [Ανθρώπων Έργα](/parastaseis/anthropon-erga)
+### [Ανθρώπων Έργα](/parastaseis/2016/anthropon-erga)
 Ένα εξαήμερο θεατρικό φεστιβάλ εργαστηρίων και παραστάσεων
 - Πολυχώρος Άννα & Μαρία Καλουτά
 
 ![ekkli2-e1583243738204](https://github.com/different-ways/theatrikiopa.eu/assets/16403754/6b78c300-b86d-4eb2-b406-b38ed814d532)
-### [Εκκλησιάζουσες του Αριστοφάνη](parastaseis/ekklisiazouses-tou-aristofanh)
+### [Εκκλησιάζουσες του Αριστοφάνη](parastaseis/2016/ekklisiazouses-tou-aristofanh)
 Σκηνοθεσία: Χαρά Καραβασιλείου
 - Altera Pars
 
 ![Παράσταση-Αντιγόνης-e1583243764685](https://github.com/different-ways/theatrikiopa.eu/assets/16403754/32409453-ef13-4db7-9aa7-3f42c27afc7c)
-### [Αντιγόνη του Μπρεχτ](/parastaseis/antigoni-tou-brecht)
+### [Αντιγόνη του Μπρεχτ](/parastaseis/2016/antigoni-tou-brecht)
 Σκηνοθεσία: Νάση Σακιώτη
 - Altera Pars
 
 ![antropoi-e1583243844392](https://github.com/different-ways/theatrikiopa.eu/assets/16403754/a0440880-2eb5-490d-b813-61c263aee743)
-### [Άνθρωποι](/parastaseis/anthropoi)
+### [Άνθρωποι](/parastaseis/2016/anthropoi)
 Σκηνοθεσία: Μαριλού Βαλεοντή
 - Altera Pars
 
 ## 2015
 ![Νους-Υγιής](https://github.com/different-ways/theatrikiopa.eu/assets/16403754/d1f4d861-d729-429d-9cbe-83fadc01543f)
-### [Νους Υγιής](/parastaseis/nous-ygihs)
+### [Νους Υγιής](/parastaseis/2015/nous-ygihs)
 Αυτοσκηνοθετούμενη διασκευή της παράστασης The Man Who
 - Αμφιθέατρο Αντωνιάδου | Οικονομικό Πανεπιστήμιο Αθηνών
 - Θεατράκι Βιολογικού | Πανεπιστήμιο Πατρών
 
 ![tsirko1](https://github.com/different-ways/theatrikiopa.eu/assets/16403754/3c36fb2e-cc79-4db3-9361-f83f24da3e3b)
-### [Τσίρκο δίχως όνομα](/parastaseis/tsirko-dichos-onoma)
+### [Τσίρκο δίχως όνομα](/parastaseis/2015/tsirko-dichos-onoma)
 Σκηνοθεσία - Διασκευή: Θεοδοσία Βασιλείου
 - Θέατρο Ανωτάτης Σχολής Καλών Τεχνών
 - [11η Διεθνής Πανεπιστημιάδα Θεάτρου | Σέρρες](https://www.dipetheserron.gr/archive/item/38-11%CE%B7-%CF%80%CE%B1%CE%BD%CE%B5%CF%80%CE%B9%CF%83%CF%84%CE%B7%CE%BC%CE%B9%CE%B1%CE%B4%CE%B1-%CE%B8%CE%B5%CE%B1%CF%84%CF%81%CE%BF%CF%85-2015)
 
 ![ksipnima-ths-aniksis-4](https://github.com/different-ways/theatrikiopa.eu/assets/16403754/8df794d9-ae05-4814-b3f9-0f925600f09d)
-### [Το Ξύπνημα της Άνοιξης](/parastaseis/ksipnima-ths-aniksis)
+### [Το Ξύπνημα της Άνοιξης](/parastaseis/2015/ksipnima-ths-aniksis)
 Σκηνοθεσία: Βασίλης Ασλανίδης
 - Δημοτικό Θέατρο Καλλιθέας
 
 ![stemma-e1583243686943](https://github.com/different-ways/theatrikiopa.eu/assets/16403754/43b99fcd-fee4-4154-826d-760d365ae4b8)
-### [Το Στέμμα της Γης](/parastaseis/stemma-ths-ghs)
+### [Το Στέμμα της Γης](/parastaseis/2015/stemma-ths-ghs)
 Σκηνοθεσία: Δημήτρης Καραφωτίου - Δημοτικό Θέατρο Νέας Ιωνίας
 
 ## 2014
 ![last-supper-1024x559](https://github.com/different-ways/theatrikiopa.eu/assets/16403754/379b9489-0081-4114-bc06-aa44ddb0c8e5)
-### [The Last Supper](/parastaseis/the-last-supper)
+### [The Last Supper](/parastaseis/2014/the-last-supper)
 Σκηνοθεσία - Διασκευή: Τάσος Ζουγανέλης, Στράτος Κουρλής
 - Θέατρο Εμπρός
 - [10η Διεθνής Πανεπιστημιάδα Θεάτρου | Σέρρες](https://www.dipetheserron.gr/archive/item/37-10%CE%B7-%CF%80%CE%B1%CE%BD%CE%B5%CF%80%CE%B9%CF%83%CF%84%CE%B7%CE%BC%CE%B9%CE%B1%CE%B4%CE%B1-%CE%B8%CE%B5%CE%B1%CF%84%CF%81%CE%BF%CF%85-2014)
 
 ![persepolis-afisa-724x1024](https://github.com/different-ways/theatrikiopa.eu/assets/16403754/94ebf803-a54d-49bf-9061-8b6ce81b7e14)
-### [Perse.πολις](/parastaseis/persepolis)
+### [Perse.πολις](/parastaseis/2014/persepolis)
 Σκηνοθεσία - Διασκευή: Ρένια Πουρνάρα
 - Θέατρο Απόλλων | Ερμούπολη Σύρου
 - Θέατρο Εμπρός | Ψυρρή
 
 ![3lepta](https://github.com/different-ways/theatrikiopa.eu/assets/16403754/214b7f87-11e6-489b-85ec-0ca311464c3f)
-### [Περίπου 3 Λεπτά](/parastaseis/peripou-tria-lepta)
+### [Περίπου 3 Λεπτά](/parastaseis/2014/peripou-tria-lepta)
 Σκηνοθεσία - Σύνθεση: Μαριλού Βαλεοντή
 - Δημοτικό Θέατρο Καλλιθέας
 
@@ -160,7 +160,7 @@ title: Παραστάσεις
 Σκηνοθεσία - Σύνθεση: Αλέξης Αλάτσης
 - Θέατρο Altera Pars
 
-### [Η Μεγάλη Παντομίμα του Ντάριο Φο](/parastaseis/megali-pantomima)
+### [Η Μεγάλη Παντομίμα του Ντάριο Φο](/parastaseis/2013/megali-pantomima)
 Σκηνοθεσία - Διασκευή: Φρύνη Θετάκη
 - Θέατρο Altera Pars
 
@@ -170,7 +170,7 @@ title: Παραστάσεις
 
 ### Φουεντεοβεχούνα του Λόπε δε Βέγα (Ιούνιος 2012)
 
-### [Η Λυσσασμένη Γάτα του Τένεσι Ουίλιαμς](/parastaseis/lyssasmeni-gata)
+### [Η Λυσσασμένη Γάτα του Τένεσι Ουίλιαμς](/parastaseis/2012/lyssasmeni-gata)
 Σκηνοθεσία - Διασκευή: Σταύρος Τριχιάς, Ηρώ Ρούσσου
 - Δημοτικό Θέατρο Καλλιθέας
 
