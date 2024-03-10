@@ -42,6 +42,7 @@
 
 // Import React and any other libraries or CSS files you need
 import React from 'react';
+import useDocusaurusContext from '@docusaurus/useDocusaurusContext';
 import Layout from '@theme/Layout'; // Adjust this import based on your project's structure
 
 import styles from './index.module.css';
