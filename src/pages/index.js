@@ -44,6 +44,8 @@
 import React from 'react';
 import Layout from '@theme/Layout'; // Adjust this import based on your project's structure
 
+import styles from './index.module.css';
+
 // Define the Home component
 export default function Home() {
   // Render your page content
