@@ -6,7 +6,7 @@ authors:
   title: AUEB Drama Club IT Team
   url: https://github.com/paraskevasleivadaros
   image_url: https://github.com/paraskevasleivadaros.png
-  tags: [ergasthria, 2017-2018]
+  tags: [εργαστήρια, 2017-2018]
 ---
 
 ![image](https://github.com/theatrikiopa/theatrikiopa.eu/assets/16403754/cf39a092-82d4-475b-ac39-d9135be25efe)
