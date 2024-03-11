@@ -35,6 +35,17 @@ export default function Home() {
       <HomepageHeader />
       <main>
         <HomepageFeatures />
+        <div>
+          <h1>Θεατρική Ομάδα ΟΠΑ</h1>
+          <img src="https://github.com/different-ways/theatrikiopa.eu/assets/16403754/326cb1f5-fe06-446c-9358-5481aecd9ff9" alt="Εργαστήρια" />
+          <p>Τα εργαστήρια της ομάδας είναι ανοιχτά για το κοινό και διεξάγονται στο Αμφιθέατρο Αντωνιάδου κάθε Δευτέρα, Τεταρτη, Πέμπτη, και μερικές φορές στις Φοιτητικές Εστίες Αγίου Λουκά τις Παρασκευές.</p>
+          <img src="https://github.com/different-ways/theatrikiopa.eu/assets/16403754/e5f8fcbb-dce6-4835-900c-915fb225d299" alt="Κατάρα επί Θήβας" />
+          <p>Η προετοιμασία των παραστάσεων ξεκινά τον Ιανουάριο και η παρουσίασή τους γίνεται τον Μάιο, σε θέατρα της Αθήνας.</p>
+          <h2>Βία Είναι…</h2>
+          <img src="https://github.com/different-ways/theatrikiopa.eu/assets/16403754/aa60619d-adce-49af-8cba-e2951d525cb2" alt="Βία Είναι..." />
+          <p>Παράσταση θέατρο ντοκουμέντο από την Θεατρική Ομάδα του Οικονομικού Πανεπιστημίου Αθήνας</p>
+          <h2>Γιοί και Κόρες του Γιάννη Καλαβριανού</h2>
+        </div>
       </main>
     </Layout>
   );
