@@ -6,7 +6,7 @@ authors:
   title: AUEB Drama Club IT Team
   url: https://github.com/paraskevasleivadaros
   image_url: https://github.com/paraskevasleivadaros.png
-  tags: [ergasthria, 2022-2023]
+  tags: [εργαστήρια, 2022-2023]
 ---
 
 ![katara-epi-thivas-16](https://github.com/theatrikiopa/theatrikiopa.eu/assets/16403754/6641de8b-0ce0-446c-ba86-5f02b7ba3c45)
