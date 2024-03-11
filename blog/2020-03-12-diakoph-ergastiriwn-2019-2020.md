@@ -6,7 +6,7 @@ authors:
   title: AUEB Drama Club IT Team
   url: https://github.com/paraskevasleivadaros
   image_url: https://github.com/paraskevasleivadaros.png
-  tags: [ergasthria, 2019-2020]
+  tags: [εργαστήρια, 2019-2020]
 ---
 
 ![red-curtain](https://github.com/theatrikiopa/theatrikiopa.eu/assets/16403754/711301f4-e76d-4d71-9bf7-8278fb5b0203)
