@@ -38,9 +38,8 @@ https://www.youtube.com/watch?v=6iK3Ey_ig9k
 
 [Blog](http://earthcrowntheatre.blogspot.gr/)
 
-***
-> Ευχαριστούμε πολύ το κοινό που παρευρέθηκε.
-> Σας περιμένουμε στις επόμενες παραστάσεις μας!
+## Ευχαριστούμε 
+πολύ το κοινό που παρευρέθηκε. Σας περιμένουμε στις επόμενες παραστάσεις μας!
 
 https://www.youtube.com/watch?v=MVkRmw2opCQ
 
