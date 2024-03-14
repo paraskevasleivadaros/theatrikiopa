@@ -18,7 +18,7 @@ title: Παραστάσεις
 - [17η Διεθνής Πανεπιστημιάδα Θεάτρου | Σέρρες](https://www.dipetheserron.gr/parastaseis19_20/%C2%AB%CE%B3%CE%B9%CE%BF%CE%B9-%CE%BA%CE%B1%CE%B9-%CE%BA%CE%BF%CF%81%CE%B5%CF%83%C2%BB-%CF%84%CE%BF%CF%85-%CE%B3%CE%B9%CE%B1%CE%BD%CE%BD%CE%B7-%CE%BA%CE%B1%CE%BB%CE%B1%CE%B2%CF%81%CE%B9%CE%B1%CE%BD%CE%BF%CF%85)
 
 ![signal-2023-05-09-134939_002](https://github.com/different-ways/theatrikiopa.eu/assets/16403754/6a1ba3df-b78c-4a6d-8e4c-fdda713eecf0)
-### [Βία Είναι](/parastaseis/2023/via-einai)
+### [Βία Είναι...](/parastaseis/2023/via-einai)
 Σκηνοθεσία: Μαίρη Μαραγκουδάκη
 - Θέατρο της Ημέρας
 
