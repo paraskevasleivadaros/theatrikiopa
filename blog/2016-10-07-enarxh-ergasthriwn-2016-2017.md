@@ -5,7 +5,7 @@ authors:
   name: Θεατρική Ομάδα ΟΠΑ
   title: 
   url: https://github.com/theatrikiopa
-  image_url: /img/logo.svg
+  image_url: https://github.com/theatrikiopa/docusaurus-2/blob/main/static/img/logo.svg
 tags: [εργαστήρια, 2016-2017]
 ---
 
