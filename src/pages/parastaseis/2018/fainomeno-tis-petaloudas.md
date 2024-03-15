@@ -1,6 +1,7 @@
 ---
 title: Το Φαινόμενο της Πεταλούδας
 ---
+import ResponsiveYouTube from '@site/src/components/ResponsiveYouTube';
 
 # Το Φαινόμενο της Πεταλούδας
 
@@ -32,7 +33,7 @@ title: Το Φαινόμενο της Πεταλούδας
 
 ![ασκτ-e1583243364481](https://github.com/theatrikiopa/theatrikiopa.eu/assets/16403754/460a9b55-bcd3-4eed-af84-8a99eb8e108e)
 
-https://www.youtube.com/watch?v=my6rNXIl-E8
+<ResponsiveYouTube videoId="my6rNXIl-E8"/>
 
 ![1-1024x575](https://github.com/theatrikiopa/theatrikiopa.eu/assets/16403754/0db5aeac-79bc-490d-9ac7-ca48d08e8cd9)
 
