@@ -24,5 +24,5 @@ import GoogleMapEmbed from '@site/src/components/GoogleMapEmbed';
 [![](https://img.shields.io/badge/@theatrikiopa-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/theatrikiopa)
 
 ## Design - Development
-Paraskevas Leivadaros [![](https://img.shields.io/badge/Website-0078D4?style=for-the-badge&logo=googlechrome&logoColor=white)](https://leivadaros.dev) [![](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/paraskevasleivadaros)
+[![](https://img.shields.io/badge/leivadaros.dev-0078D4?style=for-the-badge&logo=googlechrome&logoColor=white)](https://leivadaros.dev) [![](https://img.shields.io/badge/paraskevasleivadaros-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/paraskevasleivadaros)
 
