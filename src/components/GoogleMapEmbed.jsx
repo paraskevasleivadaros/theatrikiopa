@@ -1,16 +1,13 @@
 import React from 'react';
 
-const GoogleMapEmbed = ({ src, width = "400", height = "300" }) => {
-  // Calculate aspect ratio for the padding-top value
-  const paddingTop = (height / width) * 100 + '%';
-
+const GoogleMapEmbed = ({ src }) => {
   return (
     <div style={{
       position: 'relative',
       width: '100%', // Ensure it takes up the parent width
       maxWidth: '400px', // Limit the maximum width of the map
-      paddingTop, // Maintain aspect ratio based on props
-      height: 0, // Collapse the div to just the size of the iframe
+      height: '0',
+      paddingBottom: '75%', // This maintains a 4:3 aspect ratio
       marginBottom: '20px', // Add 20px of space below
       marginLeft: 'auto', // Center the map
       marginRight: 'auto', // Center the map
@@ -22,8 +19,10 @@ const GoogleMapEmbed = ({ src, width = "400", height = "300" }) => {
           top: 0,
           left: 0,
           width: '100%', // iframe takes up the width of the div
-          height: '100%', // iframe takes up the height of the div
-          border: 0, // Remove the border
+          height: '100%', // iframe takes up the height of the div, but not exceeding 300px
+          border: '0', // Remove the border
+          maxWidth: '400px',
+          maxHeight: '300px',
         }}
         allowFullScreen=""
         loading="lazy"
