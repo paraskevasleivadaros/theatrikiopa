@@ -2,10 +2,10 @@
 slug: enarxh-ergasthriwn-2017-2018
 title: Έναρξη Εργαστηρίων 2017-2018
 authors:
-  name: Paraskevas Leivadaros
-  title: AUEB Drama Club IT Team
-  url: https://github.com/paraskevasleivadaros
-  image_url: https://github.com/paraskevasleivadaros.png
+  name: Θεατρική Ομάδα ΟΠΑ
+  title: Οικονομικό Πανεπιστήμιο Αθηνών
+  url: https://github.com/theatrikiopa
+  image_url: /img/logo.svg
   tags: [εργαστήρια, 2017-2018]
 ---
 
