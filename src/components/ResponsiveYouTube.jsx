@@ -8,7 +8,8 @@ const ResponsiveYouTube = ({ videoId }) => {
       position: 'relative',
       paddingBottom: '56.25%', // 16:9 Aspect Ratio
       paddingTop: '25px',
-      height: 0
+      height: 0,
+      marginBottom: '20px' // Add 20px of space at the bottom
     }}>
       <iframe 
         src={videoUrl}
