@@ -2,10 +2,10 @@
 slug: diakoph-ergasthriwn-2019-2020
 title: Διακοπή Εργαστηρίων 2019-2020
 authors:
-  name: Paraskevas Leivadaros
-  title: AUEB Drama Club IT Team
-  url: https://github.com/paraskevasleivadaros
-  image_url: https://github.com/paraskevasleivadaros.png
+  name: Θεατρική Ομάδα ΟΠΑ
+  title: Οικονομικό Πανεπιστήμιο Αθηνών
+  url: https://github.com/theatrikiopa
+  image_url: /img/logo.svg
   tags: [εργαστήρια, 2019-2020]
 ---
 
