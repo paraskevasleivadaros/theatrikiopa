@@ -8,9 +8,12 @@ const GoogleMapEmbed = ({ src, width = "400", height = "300" }) => {
     <div style={{
       position: 'relative',
       width: '100%', // Ensure it takes up the parent width
+      maxWidth: '400px', // Limit the maximum width of the map
       paddingTop, // Maintain aspect ratio based on props
       height: 0, // Collapse the div to just the size of the iframe
       marginBottom: '20px', // Add 20px of space below
+      marginLeft: 'auto', // Center the map
+      marginRight: 'auto', // Center the map
     }}>
       <iframe
         src={src}
