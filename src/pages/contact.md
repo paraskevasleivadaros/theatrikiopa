@@ -24,9 +24,5 @@ import GoogleMapEmbed from '@site/src/components/GoogleMapEmbed';
 [![](https://img.shields.io/badge/@theatrikiopa-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/theatrikiopa)
 
 ## Design - Development
-- Leonidas Kollaros: [![](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/leonidas-kollaros-8b0938158)
-- Vasileios Drossatos: [![](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/billdrosatos)
-- Elisavet Topsachalidou: [![](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/elisavet-topsachalidou-aa3446122)
-- Stathis Aliprandis: [![](https://img.shields.io/badge/Website-0078D4?style=for-the-badge&logo=googlechrome&logoColor=white)](https://alistat.eu) [![](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/stathis-aliprandis)
-- Paraskevas Leivadaros: [![](https://img.shields.io/badge/Website-0078D4?style=for-the-badge&logo=googlechrome&logoColor=white)](https://leivadaros.dev) [![](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/paraskevasleivadaros)
+Paraskevas Leivadaros [![](https://img.shields.io/badge/Website-0078D4?style=for-the-badge&logo=googlechrome&logoColor=white)](https://leivadaros.dev) [![](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/paraskevasleivadaros)
 
