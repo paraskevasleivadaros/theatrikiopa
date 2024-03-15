@@ -4,13 +4,12 @@ const GoogleMapEmbed = ({ src }) => {
   return (
     <div style={{
       position: 'relative',
-      width: '100%', // Ensure it takes up the parent width
-      maxWidth: '400px', // Limit the maximum width of the map
-      height: '0',
-      paddingBottom: '75%', // This maintains a 4:3 aspect ratio
-      marginBottom: '20px', // Add 20px of space below
-      marginLeft: 'auto', // Center the map
-      marginRight: 'auto', // Center the map
+      width: '100%', // The map will try to fill the container
+      paddingTop: '75%', // Maintains a 4:3 aspect ratio
+      maxWidth: '400px', // Ensures the map does not grow beyond 400px in width
+      maxHeight: '300px', // Aims to limit the height, indirectly through aspect ratio
+      margin: '0 auto 20px', // Centers the map if it's smaller than the container, adds space below
+      overflow: 'hidden', // Prevents the iframe from exceeding the div's maximum height
     }}>
       <iframe
         src={src}
@@ -18,11 +17,9 @@ const GoogleMapEmbed = ({ src }) => {
           position: 'absolute',
           top: 0,
           left: 0,
-          width: '100%', // iframe takes up the width of the div
-          height: '100%', // iframe takes up the height of the div, but not exceeding 300px
-          border: '0', // Remove the border
-          maxWidth: '400px',
-          maxHeight: '300px',
+          width: '100%', 
+          height: '100%',
+          border: '0',
         }}
         allowFullScreen=""
         loading="lazy"
