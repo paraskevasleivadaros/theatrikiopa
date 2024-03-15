@@ -9,7 +9,7 @@ const GoogleMapEmbed = ({ src }) => {
       width: '100%', // Allows the map to be responsive up to the max width
       maxWidth: '400px', // Maximum width of the map
       height: '300px', // Fixed height to address the concern
-      margin: '0 auto 20px', // Centers the map and adds space below
+      margin: '0 0 20px 0', // Centers the map and adds space below
     }}>
       <iframe
         src={src}
