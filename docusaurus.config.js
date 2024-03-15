@@ -75,6 +75,7 @@ const config = {
             label: 'Εργαστήρια',
             position: 'left',
             items: [
+              { label: '2023-2024', to: '/ergastiria#2023-2024' },
               { label: '2022-2023', to: '/ergastiria#2022-2023' },
               { label: '2021-2022', to: '/ergastiria#2021-2022' },
               { label: '2019-2020', to: '/ergastiria#2019-2020' },
