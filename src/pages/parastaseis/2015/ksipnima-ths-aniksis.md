@@ -1,6 +1,7 @@
 ---
 title: Το Ξύπνημα της Άνοιξης
 ---
+import ResponsiveYouTube from '@site/src/components/ResponsiveYouTube';
 
 # Το Ξύπνημα της Άνοιξης
 
@@ -52,7 +53,7 @@ _Ένα σύγχρονο έργο, που γράφτηκε μεταξύ φθιν
 ## Ευχαριστούμε 
 πολύ το κοινό που παρευρέθηκε. Σας περιμένουμε στις επόμενες παραστάσεις μας!
 
-https://www.youtube.com/watch?v=leDBQcBBM30
+<ResponsiveYouTube videoId="leDBQcBBM30"/>
 
 ![ksipnima-ths-aniksis-1](https://github.com/theatrikiopa/theatrikiopa.eu/assets/16403754/e1bd4535-25d2-4d93-a9b5-5773fe0006da)
 
