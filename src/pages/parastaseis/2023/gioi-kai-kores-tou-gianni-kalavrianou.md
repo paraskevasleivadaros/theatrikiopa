@@ -5,7 +5,7 @@ import ResponsiveYouTube from '@site/src/components/ResponsiveYouTube';
 
 # Γιοί και Κόρες του Γιάννη Καλαβριανού
 
-![gioi-kai-kores-tou-gianni-kalavrianou-cover](/img/gioi-kai-kores-tou-gianni-kalavrianou/cover.jpg)
+![gioi-kai-kores-tou-gianni-kalavrianou-cover](/img/gioi-kai-kores-tou-gianni-kalavrianou/cover.png)
 
 Μία σπονδυλωτή παράσταση για την αναζήτηση της ευτυχίας, αποτελούμενη από 15 πραγματικές ιστορίες ανθρώπων απ’ όλη την Ελλάδα. Το μόνο ερώτημα που τέθηκε στα πρόσωπα αυτά ήταν «Αν έπρεπε να ξεχωρίσετε μία ιστορία από την ζωή σας, ποια θα ήταν αυτή;»
 
