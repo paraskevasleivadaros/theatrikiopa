@@ -130,24 +130,24 @@ const config = {
             title: 'Κοινότητα',
             items: [
               {
-                label: 'Instagram',
-                href: 'https://instagram.com/theatrikiopa',
+                label: 'Twitter',
+                href: 'https://twitter.com/theatrikiopa',
               },
               {
-                label: 'Facebook',
-                href: 'https://facebook.com/theatrikiopa',
+                label: 'Youtube',
+                href: 'https://www.youtube.com/@theatrikiopa',
               },
               {
                 label: 'LinkedIn',
                 href: 'https://linkedin.com/company/theatrikiopa',
               },
               {
-                label: 'Youtube',
-                href: 'https://www.youtube.com/@theatrikiopa',
-              },						  
+                label: 'Facebook',
+                href: 'https://facebook.com/theatrikiopa',
+              },              
               {
-                label: 'Twitter',
-                href: 'https://twitter.com/theatrikiopa',
+                label: 'Instagram',
+                href: 'https://instagram.com/theatrikiopa',
               },
             ],
           },
