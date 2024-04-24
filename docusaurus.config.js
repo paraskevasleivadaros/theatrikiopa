@@ -135,7 +135,7 @@ const config = {
               },
               {
                 label: 'Youtube',
-                href: 'https://www.youtube.com/@theatrikiopa',
+                href: 'https://youtube.com/@theatrikiopa',
               },
               {
                 label: 'LinkedIn',
