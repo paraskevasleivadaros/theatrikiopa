@@ -4,7 +4,7 @@ title: Η Πτήση των Λίντμπεργκ ή Το μαύρο κουτί
 
 # Η Πτήση των Λίντμπεργκ ή Το μαύρο κουτί
 
-![lindenberg-flight-mauro-kouti-00](/img/lindenberg-flight-mauro-kouti/00.jpg)
+![lindenberg-flight-mauro-kouti-00](/img/lindenberg-flight-mauro-kouti/01.jpg)
 
 «Η Πτήση των Λίντμπεργκ ή Το μαύρο κουτί»
 
