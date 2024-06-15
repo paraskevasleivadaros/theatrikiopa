@@ -4,7 +4,7 @@ title: Η Πτήση των Λίντμπεργκ ή Το μαύρο κουτί
 
 # Η Πτήση των Λίντμπεργκ ή Το μαύρο κουτί
 
-![lindenberg-flight-mauro-kouti-00](/img/lindenberg-flight-mauro-kouti/01.jpg)
+![lindenberg-flight-mauro-kouti-01](/img/lindenberg-flight-mauro-kouti/01.jpg)
 
 «Η Πτήση των Λίντμπεργκ ή Το μαύρο κουτί»
 
@@ -52,8 +52,7 @@ title: Η Πτήση των Λίντμπεργκ ή Το μαύρο κουτί
 ## Ευχαριστούμε 
 πολύ το κοινό που παρευρέθηκε. Σας περιμένουμε στις επόμενες παραστάσεις μας!
 
-![lidenberg-4-1024x684](https://github.com/theatrikiopa/theatrikiopa.eu/assets/16403754/383a37c3-f9db-4e83-9c7d-e2f00944b9a7)
-
-![lidenberg-2-1024x684](https://github.com/theatrikiopa/theatrikiopa.eu/assets/16403754/75432e50-e18b-435f-94f7-9ecb2a4c79ac)
-
-![lidenberg-3-1024x684](https://github.com/theatrikiopa/theatrikiopa.eu/assets/16403754/8b1fb4dd-026d-45fd-b867-147484dbc1d1)
+![lindenberg-flight-mauro-kouti-02](/img/lindenberg-flight-mauro-kouti/02.jpg)
+![lindenberg-flight-mauro-kouti-03](/img/lindenberg-flight-mauro-kouti/03.jpg)
+![lindenberg-flight-mauro-kouti-04](/img/lindenberg-flight-mauro-kouti/04.jpg)
+![lindenberg-flight-mauro-kouti-05](/img/lindenberg-flight-mauro-kouti/05.jpg)
