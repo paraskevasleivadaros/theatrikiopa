@@ -4,7 +4,7 @@ title: Η Πτήση των Λίντμπεργκ ή Το μαύρο κουτί
 
 # Η Πτήση των Λίντμπεργκ ή Το μαύρο κουτί
 
-![lidenberg-1-1024x684](https://github.com/theatrikiopa/theatrikiopa.eu/assets/16403754/f24c1793-e569-467e-b324-8be7f5adfbeb)
+![lindenberg-flight-mauro-kouti-00](/img/lindenberg-flight-mauro-kouti/00.png)
 
 «Η Πτήση των Λίντμπεργκ ή Το μαύρο κουτί»
 
