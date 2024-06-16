@@ -4,7 +4,7 @@ title: Σαν πατρίδα Κυριακή μεσημέρι
 
 # Σαν πατρίδα Κυριακή μεσημέρι
 
-![san-patrida-kyriakh-meshmeri-poster](/img/san-patrida-kyriakh-meshmeri/poster.png)
+![san-patrida-kyriakh-meshmeri-poster](/img/san-patrida-kyriakh-meshmeri/poster.jpg)
 
 Διαρκώς μετακινούμαστε. Διαρκώς αναζητούμε. Διαρκώς ονειρευόμαστε. Διαρκώς θυσιάζουμε και διαρκώς θυσιαζόμαστε. Για ν’ απολαύσουμε το καλύτερο. Το εὖ. Την ευ_τυχία. Την ευ_δαιμονία. Την ευ_πορία. Νέες πατρίδες, καινούριοι άνθρωποι, διαφορετικές συνήθειες.
 
