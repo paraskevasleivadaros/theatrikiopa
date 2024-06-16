@@ -4,7 +4,7 @@ title: Το Πράσινο Μίλι
 
 # Το Πράσινο Μίλι
 
-![ΚΡΟΠ-ΑΦΙΣΑΣ-REAL-1](https://github.com/theatrikiopa/theatrikiopa.eu/assets/16403754/6ba08567-b683-470e-bbb5-a805dec44a58)
+![prasino-mili-poster](/img/prasino-mili/poster.jpg)
 
 Σκέψου τον εαυτό σου μέσα σε σκοτεινές φυλακές. Τις φυλακές του Cold Mountain.
 
@@ -26,18 +26,13 @@ title: Το Πράσινο Μίλι
 ## Ευχαριστούμε 
 πολύ το κοινό που παρευρέθηκε. Σας περιμένουμε στις επόμενες παραστάσεις μας!
 
-![theodosia-680x1024](https://github.com/theatrikiopa/theatrikiopa.eu/assets/16403754/a1b86cb7-dacc-479a-b44b-431b1306584e)
-
-![stelios-olokl-865x1024](https://github.com/theatrikiopa/theatrikiopa.eu/assets/16403754/ae80a480-de27-4c54-b5e1-6dce8fc3c4f4)
-
-![prasino-mili-4-648x1024](https://github.com/theatrikiopa/theatrikiopa.eu/assets/16403754/5a72e775-5b84-402f-a357-a6545b0c1bdb)
-
-![prasino-mili-2-775x1024](https://github.com/theatrikiopa/theatrikiopa.eu/assets/16403754/f413f94b-474f-4fba-9319-75737d911f64)
-
-![kwnna-olkl-716x1024](https://github.com/theatrikiopa/theatrikiopa.eu/assets/16403754/02ddc35e-e08d-4e25-8d5e-ab9c37fdbd70)
-
-![kaaterina2-639x1024](https://github.com/theatrikiopa/theatrikiopa.eu/assets/16403754/02a08749-bee9-4be2-af20-70a48d60e1ea)
-
-![fwteinh-olok-847x1024](https://github.com/theatrikiopa/theatrikiopa.eu/assets/16403754/52bc583d-2182-4e3e-9453-a083ce0c6ead)
-
-![kwstas-olokl-844x1024](https://github.com/theatrikiopa/theatrikiopa.eu/assets/16403754/bcabb0d3-e034-4547-be42-c11ddbf17361)
+![prasino-mili-01](/img/prasino-mili/01.jpg)
+![prasino-mili-02](/img/prasino-mili/02.jpg)
+![prasino-mili-03](/img/prasino-mili/03.jpg)
+![prasino-mili-04](/img/prasino-mili/04.jpg)
+![prasino-mili-05](/img/prasino-mili/05.jpg)
+![prasino-mili-06](/img/prasino-mili/06.jpg)
+![prasino-mili-07](/img/prasino-mili/07.jpg)
+![prasino-mili-08](/img/prasino-mili/08.jpg)
+![prasino-mili-09](/img/prasino-mili/09.jpg)
+![prasino-mili-10](/img/prasino-mili/10.jpg)
