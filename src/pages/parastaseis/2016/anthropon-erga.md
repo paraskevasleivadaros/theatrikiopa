@@ -11,7 +11,7 @@ title: Ανθρώπων Έργα
 ## Πληροφορίες
 Στις 10, 12 και 17 με 19 Μαΐου στον **Πολυχώρο Άννα & Μαρία Καλουτά**
 
-[Πρόγραμμα-Καλουτά-2016.pdf](https://github.com/theatrikiopa/theatrikiopa.eu/files/14378298/-.-2016.pdf)
+![anthropon-erga-programma](/doc/anthropon-erga/anthropon-erga-programma.pdf)
 
 Άντρας, γυναίκα, παιδί, πλούτος, πόλεμος, μετανάστευση. Άνθρωπος.
 
