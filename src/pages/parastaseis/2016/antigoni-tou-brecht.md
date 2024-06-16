@@ -4,7 +4,7 @@ title: Αντιγόνη του Μπρεχτ
 
 # Αντιγόνη του Μπρεχτ
 
-![afisa-anitgonhs-e1583243757311](https://github.com/theatrikiopa/theatrikiopa.eu/assets/16403754/fdc4d55b-4d22-4598-99c4-928e76cc6b9a)
+![antigoni-tou-brecht-poster](/img/antigoni-tou-brecht/poster.jpg)
 
 Ο μύθος της Αντιγόνης είναι γνωστός. Μια γυναίκα αντιστέκεται στο Νόμο του Κράτους με όπλα τη Δικαιοσύνη, τη Λογική και την Αγάπη, και αυτό τοποθετημένο στο Βερολίνο του 1945.
 
@@ -37,42 +37,23 @@ title: Αντιγόνη του Μπρεχτ
 ## Ευχαριστούμε 
 πολύ το κοινό που παρευρέθηκε. Σας περιμένουμε στις επόμενες παραστάσεις μας!
 
-![antigonh-1](https://github.com/theatrikiopa/theatrikiopa.eu/assets/16403754/c78648a2-ac10-4bd0-ba3c-22332ebb69df)
-
-![antigonh-2](https://github.com/theatrikiopa/theatrikiopa.eu/assets/16403754/9dcc7c90-1c4a-48e4-8a32-f9503f2bd892)
-
-![antigonh-3](https://github.com/theatrikiopa/theatrikiopa.eu/assets/16403754/1fd7ae1c-3257-460b-94bd-63067952739a)
-
-![antigonh-4](https://github.com/theatrikiopa/theatrikiopa.eu/assets/16403754/4adeb168-490a-4feb-9ecf-0ec1958bfd97)
-
-![antigonh-5](https://github.com/theatrikiopa/theatrikiopa.eu/assets/16403754/0797544f-9e1c-4760-b381-c3b07239e60e)
-
-![antigonh-6](https://github.com/theatrikiopa/theatrikiopa.eu/assets/16403754/9d478705-c20b-45c3-8e36-f26dbfa08420)
-
-![antigonh-9](https://github.com/theatrikiopa/theatrikiopa.eu/assets/16403754/602f6d5a-182e-470f-86ca-c21ca4066a36)
-
-![antigonh-8](https://github.com/theatrikiopa/theatrikiopa.eu/assets/16403754/7b0d4510-16c7-4854-87c7-e9942b3f215d)
-
-![antigonh-11](https://github.com/theatrikiopa/theatrikiopa.eu/assets/16403754/ad3ea0b0-5cad-4a31-8005-7ec3d4f427d8)
-
-![antigonh-12](https://github.com/theatrikiopa/theatrikiopa.eu/assets/16403754/eb0c3c8c-3e2a-4d2c-bc7b-fd323d989bb5)
-
-![antigonh-13](https://github.com/theatrikiopa/theatrikiopa.eu/assets/16403754/6262fe35-3214-4b93-af44-fbac892210c6)
-
-![antigonh-14](https://github.com/theatrikiopa/theatrikiopa.eu/assets/16403754/d6ff8de2-bbeb-42b5-9b1d-acac5bbfd66a)
-
-![antigonh-15](https://github.com/theatrikiopa/theatrikiopa.eu/assets/16403754/87096d43-075c-4808-8555-75b784177ec5)
-
-![antigonh-16](https://github.com/theatrikiopa/theatrikiopa.eu/assets/16403754/128671bb-5fbd-45ec-97d3-b4d7ce6a3177)
-
-![antigonh-17](https://github.com/theatrikiopa/theatrikiopa.eu/assets/16403754/db726ed2-c85c-4259-9cc0-01503aa51478)
-
-![antigonh-18](https://github.com/theatrikiopa/theatrikiopa.eu/assets/16403754/4257ddb1-e469-41f9-8078-52310dbbeaa7)
-
-![antigonh-20](https://github.com/theatrikiopa/theatrikiopa.eu/assets/16403754/c3318f63-e296-4eb3-b841-fb14da6dbc62)
-
-![antigonh-10](https://github.com/theatrikiopa/theatrikiopa.eu/assets/16403754/90fc3f52-e433-4bee-95f9-97153ac3edaa)
-
-![antigonh-7](https://github.com/theatrikiopa/theatrikiopa.eu/assets/16403754/92c71507-15eb-4ab5-869d-c4acb8fa69b2)
-
-![antigonh-19](https://github.com/theatrikiopa/theatrikiopa.eu/assets/16403754/d7e101f4-aca9-4962-a6e3-62f495edc89b)
+![antigoni-tou-brecht-01](/img/antigoni-tou-brecht/01.jpg)
+![antigoni-tou-brecht-02](/img/antigoni-tou-brecht/02.jpg)
+![antigoni-tou-brecht-03](/img/antigoni-tou-brecht/03.jpg)
+![antigoni-tou-brecht-04](/img/antigoni-tou-brecht/04.jpg)
+![antigoni-tou-brecht-05](/img/antigoni-tou-brecht/05.jpg)
+![antigoni-tou-brecht-06](/img/antigoni-tou-brecht/06.jpg)
+![antigoni-tou-brecht-07](/img/antigoni-tou-brecht/07.jpg)
+![antigoni-tou-brecht-08](/img/antigoni-tou-brecht/08.jpg)
+![antigoni-tou-brecht-09](/img/antigoni-tou-brecht/09.jpg)
+![antigoni-tou-brecht-10](/img/antigoni-tou-brecht/10.jpg)
+![antigoni-tou-brecht-11](/img/antigoni-tou-brecht/11.jpg)
+![antigoni-tou-brecht-12](/img/antigoni-tou-brecht/12.jpg)
+![antigoni-tou-brecht-13](/img/antigoni-tou-brecht/13.jpg)
+![antigoni-tou-brecht-14](/img/antigoni-tou-brecht/14.jpg)
+![antigoni-tou-brecht-15](/img/antigoni-tou-brecht/15.jpg)
+![antigoni-tou-brecht-16](/img/antigoni-tou-brecht/16.jpg)
+![antigoni-tou-brecht-17](/img/antigoni-tou-brecht/17.jpg)
+![antigoni-tou-brecht-18](/img/antigoni-tou-brecht/18.jpg)
+![antigoni-tou-brecht-19](/img/antigoni-tou-brecht/19.jpg)
+![antigoni-tou-brecht-20](/img/antigoni-tou-brecht/20.jpg)
