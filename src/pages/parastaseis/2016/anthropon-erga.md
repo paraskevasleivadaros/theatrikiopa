@@ -4,7 +4,7 @@ title: Ανθρώπων Έργα
 
 # Ανθρώπων Έργα
 
-![anthropon-erga-poster](https://github.com/theatrikiopa/theatrikiopa.eu/assets/16403754/0dc46f85-72a7-404c-8f40-fbfdc360af54)
+![anthropon-erga-poster](/img/anthropon-erga/poster.jpg)
 
 6ήμερο θεατρικό φεστιβάλ εργαστηρίων & παραστάσεων από τη Θεατρική Ομάδα ΟΠΑ
 
