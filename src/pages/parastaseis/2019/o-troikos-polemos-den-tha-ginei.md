@@ -4,7 +4,7 @@ title: Ο Τρωικός Πόλεμος δεν θα γίνει
 
 # Ο Τρωικός Πόλεμος δεν θα γίνει
 
-![trojan_war_poster-e1586026905338](https://github.com/theatrikiopa/theatrikiopa.eu/assets/16403754/73c31581-01c7-440a-8b94-5489a1bd2a8b)
+![o-troikos-polemos-den-tha-ginei](/img/o-troikos-polemos-den-tha-ginei/poster.jpg)
 
 Ο Τρωικός Πόλεμος δεν θα γίνει» του Ζαν Ζιρωντού.
 
@@ -36,18 +36,20 @@ title: Ο Τρωικός Πόλεμος δεν θα γίνει
 ## Ευχαριστούμε 
 πολύ το κοινό που παρευρέθηκε. Σας περιμένουμε στις επόμενες παραστάσεις μας!
 
-![troia02-1024x683](https://github.com/theatrikiopa/theatrikiopa.eu/assets/16403754/63b5bcba-e6f3-4acd-92f1-e1e2ff54ce32)
+![o-troikos-polemos-den-tha-ginei-01](/img/o-troikos-polemos-den-tha-ginei/01.jpg)
 
-![troia03-1024x683](https://github.com/theatrikiopa/theatrikiopa.eu/assets/16403754/f894a9a6-71da-4ee4-a34f-eb9ba4d64650)
+![o-troikos-polemos-den-tha-ginei-02](/img/o-troikos-polemos-den-tha-ginei/02.jpg)
 
-![troia05-1024x683](https://github.com/theatrikiopa/theatrikiopa.eu/assets/16403754/049b7694-8b65-414b-a792-39efb2e5d359)
+![o-troikos-polemos-den-tha-ginei-03](/img/o-troikos-polemos-den-tha-ginei/03.jpg)
 
-![troia08-1024x683](https://github.com/theatrikiopa/theatrikiopa.eu/assets/16403754/cbbbb1ff-c0dd-48cf-9a85-b5eda1deac3f)
+![o-troikos-polemos-den-tha-ginei-04](/img/o-troikos-polemos-den-tha-ginei/04.jpg)
 
-![troia10-768x1152](https://github.com/theatrikiopa/theatrikiopa.eu/assets/16403754/598a1dbf-657b-4e5e-84cc-e87c00a2cbba)
+![o-troikos-polemos-den-tha-ginei-05](/img/o-troikos-polemos-den-tha-ginei/05.jpg)
 
-![troia09-1024x683](https://github.com/theatrikiopa/theatrikiopa.eu/assets/16403754/9146eff4-b9c8-4386-874a-a8535e912bbc)
+![o-troikos-polemos-den-tha-ginei-06](/img/o-troikos-polemos-den-tha-ginei/06.jpg)
 
-![troia04-1024x683](https://github.com/theatrikiopa/theatrikiopa.eu/assets/16403754/4fbddf31-3b77-4116-a916-be3f164e6a09)
+![o-troikos-polemos-den-tha-ginei-07](/img/o-troikos-polemos-den-tha-ginei/07.jpg)
 
-![troia06-1024x683](https://github.com/theatrikiopa/theatrikiopa.eu/assets/16403754/ad40abf4-5671-4fdf-aea3-54e48ca36e15)
+![o-troikos-polemos-den-tha-ginei-08](/img/o-troikos-polemos-den-tha-ginei/08.jpg)
+
+![o-troikos-polemos-den-tha-ginei-09](/img/o-troikos-polemos-den-tha-ginei/09.jpg)
