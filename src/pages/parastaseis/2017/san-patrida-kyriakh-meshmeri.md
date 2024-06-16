@@ -4,7 +4,7 @@ title: Σαν πατρίδα Κυριακή μεσημέρι
 
 # Σαν πατρίδα Κυριακή μεσημέρι
 
-![18472649_1631538283553695_1820568637_o-1024x723](https://github.com/theatrikiopa/theatrikiopa.eu/assets/16403754/7b24bc34-445a-4092-8cde-09934aa10b7e)
+![san-patrida-kyriakh-meshmeri-poster](/img/san-patrida-kyriakh-meshmeri/poster.jpg)
 
 Διαρκώς μετακινούμαστε. Διαρκώς αναζητούμε. Διαρκώς ονειρευόμαστε. Διαρκώς θυσιάζουμε και διαρκώς θυσιαζόμαστε. Για ν’ απολαύσουμε το καλύτερο. Το εὖ. Την ευ_τυχία. Την ευ_δαιμονία. Την ευ_πορία. Νέες πατρίδες, καινούριοι άνθρωποι, διαφορετικές συνήθειες.
 
@@ -34,19 +34,12 @@ title: Σαν πατρίδα Κυριακή μεσημέρι
 ## Ευχαριστούμε 
 πολύ το κοινό που παρευρέθηκε. Σας περιμένουμε στις επόμενες παραστάσεις μας!
 
-![πατριδα-2-e1583243419301](https://github.com/theatrikiopa/theatrikiopa.eu/assets/16403754/f6496395-6b7f-4fef-84bd-c369b59319ad)
-
-![πατριδα_8-e1583243410136](https://github.com/theatrikiopa/theatrikiopa.eu/assets/16403754/afd46ea7-ef6b-405d-ac0d-3ccf6a458dda)
-
-![patrida-3](https://github.com/theatrikiopa/theatrikiopa.eu/assets/16403754/d23c82ea-07a2-4b04-9948-b69033ac6cf4)
-
-![patrida-5](https://github.com/theatrikiopa/theatrikiopa.eu/assets/16403754/8ec01ca7-b202-4f2a-9424-1db7c7669013)
-
-![patrida-4](https://github.com/theatrikiopa/theatrikiopa.eu/assets/16403754/32da8b5d-71c3-4796-be9a-aeda06695cb7)
-
-![patrida-1](https://github.com/theatrikiopa/theatrikiopa.eu/assets/16403754/62d10161-440d-4bb6-8d1d-1362c16eff07)
-
-![patrida-7](https://github.com/theatrikiopa/theatrikiopa.eu/assets/16403754/d848371f-3858-4a74-a3a1-f06d472ddc43)
-
-![patrida-6](https://github.com/theatrikiopa/theatrikiopa.eu/assets/16403754/d00ef168-f0dd-4d57-b264-9ea02064ee93)
-
+![san-patrida-kyriakh-meshmeri-01](/img/san-patrida-kyriakh-meshmeri/01.jpg)
+![san-patrida-kyriakh-meshmeri-02](/img/san-patrida-kyriakh-meshmeri/02.jpg)
+![san-patrida-kyriakh-meshmeri-03](/img/san-patrida-kyriakh-meshmeri/03.jpg)
+![san-patrida-kyriakh-meshmeri-04](/img/san-patrida-kyriakh-meshmeri/04.jpg)
+![san-patrida-kyriakh-meshmeri-05](/img/san-patrida-kyriakh-meshmeri/05.jpg)
+![san-patrida-kyriakh-meshmeri-06](/img/san-patrida-kyriakh-meshmeri/06.jpg)
+![san-patrida-kyriakh-meshmeri-07](/img/san-patrida-kyriakh-meshmeri/07.jpg)
+![san-patrida-kyriakh-meshmeri-08](/img/san-patrida-kyriakh-meshmeri/08.jpg)
+![san-patrida-kyriakh-meshmeri-09](/img/san-patrida-kyriakh-meshmeri/09.jpg)
