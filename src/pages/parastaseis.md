@@ -10,7 +10,15 @@ title: Παραστάσεις
 
 Η προετοιμασία των παραστάσεων ξεκινά τον Ιανουάριο και η παρουσίασή τους γίνεται τον Μάιο, σε θέατρα της Αθήνας.
 
+## 2024
+
+![gia-to-tremameno-soma-poster](/img/gia-to-tremameno-soma-poster.jpg)
+### [Για το τρεμάμενο σώμα](/parastaseis/2024/gia-to-tremameno-soma)
+Σκηνοθεσία: Κωνσταντίνος Αβράμης
+- ΠΛΥΦΑ
+
 ## 2023
+
 ![343020745_762086732041923_4968496298849670101_n](https://github.com/different-ways/theatrikiopa.eu/assets/16403754/42e5cb5b-8d05-47f5-b77c-3b13da5d18be)
 ### [Γιοί και Κόρες του Γιάννη Καλαβριανού](/parastaseis/2023/gioi-kai-kores-tou-gianni-kalavrianou)
 Σκηνοθεσία: Σπύρος Χαϊντούτης
