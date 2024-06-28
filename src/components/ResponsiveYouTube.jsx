@@ -1,7 +1,7 @@
 import React from 'react';
 
 const ResponsiveYouTube = ({ videoId }) => {
-  const videoUrl = `https://www.youtube.com/embed/${videoId}`;
+  const videoUrl = `https://youtube.com/embed/${videoId}`;
 
   return (
     <div style={{
