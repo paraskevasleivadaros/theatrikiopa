@@ -10,7 +10,7 @@ You are welcome to fork and use this repo as you wish for your team, however, it
 ## 🛠️ Tech Stack
 [![JS](https://skillicons.dev/icons?i=js)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 [![CSS](https://skillicons.dev/icons?i=css)](https://developer.mozilla.org/en-US/docs/Web/CSS)
-[![MDX](https://skillicons.dev/icons?i=mdx)](https://mdxjs.com/)
+[![MDX](https://skillicons.dev/icons?i=md)](https://mdxjs.com/)
 [![HTML](https://skillicons.dev/icons?i=html)](https://developer.mozilla.org/en-US/docs/Web/HTML)
 [![React](https://skillicons.dev/icons?i=react)](https://react.dev)
 [![Vercel](https://skillicons.dev/icons?i=vercel)](https://vercel.com)
