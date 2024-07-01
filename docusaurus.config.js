@@ -87,7 +87,8 @@ const config = {
             to: '/parastaseis',
             label: 'Παραστάσεις',
             position: 'left',
-            items: [
+            items: [              
+              { label: '2024', to: '/parastaseis#2024' },
               { label: '2023', to: '/parastaseis#2023' },
               { label: '2022', to: '/parastaseis#2022' },
               { label: '2019', to: '/parastaseis#2019' },
