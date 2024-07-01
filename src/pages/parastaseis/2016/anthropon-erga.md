@@ -1,6 +1,7 @@
 ---
 title: Ανθρώπων Έργα
 ---
+import ResponsivePDF from '@site/src/components/ResponsivePDF';
 
 # Ανθρώπων Έργα
 
@@ -11,7 +12,7 @@ title: Ανθρώπων Έργα
 ## Πληροφορίες
 Στις 10, 12 και 17 με 19 Μαΐου στον **Πολυχώρο Άννα & Μαρία Καλουτά**
 
-![anthropon-erga-programma](/doc/anthropon-erga/anthropon-erga-programma.pdf)
+<ResponsivePDF pdfUrl="/doc/anthropon-erga/anthropon-erga-programma.pdf"/>
 
 Άντρας, γυναίκα, παιδί, πλούτος, πόλεμος, μετανάστευση. Άνθρωπος.
 
