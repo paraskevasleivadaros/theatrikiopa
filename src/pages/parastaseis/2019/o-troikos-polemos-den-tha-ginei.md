@@ -37,19 +37,11 @@ title: Ο Τρωικός Πόλεμος δεν θα γίνει
 πολύ το κοινό που παρευρέθηκε. Σας περιμένουμε στις επόμενες παραστάσεις μας!
 
 ![o-troikos-polemos-den-tha-ginei-01](/img/o-troikos-polemos-den-tha-ginei/01.jpg)
-
 ![o-troikos-polemos-den-tha-ginei-02](/img/o-troikos-polemos-den-tha-ginei/02.jpg)
-
 ![o-troikos-polemos-den-tha-ginei-03](/img/o-troikos-polemos-den-tha-ginei/03.jpg)
-
 ![o-troikos-polemos-den-tha-ginei-04](/img/o-troikos-polemos-den-tha-ginei/04.jpg)
-
 ![o-troikos-polemos-den-tha-ginei-05](/img/o-troikos-polemos-den-tha-ginei/05.jpg)
-
 ![o-troikos-polemos-den-tha-ginei-06](/img/o-troikos-polemos-den-tha-ginei/06.jpg)
-
 ![o-troikos-polemos-den-tha-ginei-07](/img/o-troikos-polemos-den-tha-ginei/07.jpg)
-
 ![o-troikos-polemos-den-tha-ginei-08](/img/o-troikos-polemos-den-tha-ginei/08.jpg)
-
 ![o-troikos-polemos-den-tha-ginei-09](/img/o-troikos-polemos-den-tha-ginei/09.jpg)
