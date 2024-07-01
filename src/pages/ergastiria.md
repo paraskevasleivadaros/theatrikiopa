@@ -4,7 +4,7 @@ title: Εργαστήρια
 
 # Εργαστήρια
 
-![300968336-e2fd995c-ed79-4366-95ee-f07953d6c5f8](https://github.com/theatrikiopa/docusaurus-2/assets/16403754/a3f18c02-25b3-4e58-bf57-bcac83cbf594)
+![gia-to-tremameno-soma-17](/img/gia-to-tremameno-soma/17.jpg)
 
 Τα εργαστήρια της ομάδας είναι ανοιχτά για το κοινό και διεξάγονται στο Αμφιθέατρο Αντωνιάδου ή στην [Φοιτητική Εστία Αθηνών](https://lesxi.aueb.gr/el/content/φοιτητική-εστία-αθηνών) κατά την περιόδο Οκτώβριος – Απρίλιος.
 
