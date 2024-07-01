@@ -5,8 +5,10 @@ const ResponsivePDF = ({ pdfUrl }) => {
     <div style={{
       position: 'relative',
       width: '100%',
-      maxWidth: '600px', // Adjust this to the desired maximum width
-      height: '800px', // Fixed height or adjust based on your needs
+      maxWidth: '100%', // Maximum width set to 100% of the parent container
+      height: '0',
+      paddingBottom: '141.42%', // 1.4142 aspect ratio (sqrt(2)), common for A4 paper
+      overflow: 'hidden', // Ensures the content doesn't overflow
       margin: '0 0 20px 0', // Centers the PDF and adds space below
     }}>
       <iframe
