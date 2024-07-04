@@ -12,7 +12,7 @@ title: Παραστάσεις
 
 ## 2024
 
-![gia-to-tremameno-soma-15](/img/gia-to-tremameno-soma/43.jpg)
+![gia-to-tremameno-soma-43](/img/gia-to-tremameno-soma/43.jpg)
 ### [Για το τρεμάμενο σώμα](/parastaseis/2024/gia-to-tremameno-soma)
 Σκηνοθεσία: Κωνσταντίνος Αβράμης
 - ΠΛΥΦΑ
