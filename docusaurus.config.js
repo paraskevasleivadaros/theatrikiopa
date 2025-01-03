@@ -131,6 +131,10 @@ const config = {
             title: 'Κοινότητα',
             items: [
               {
+                label: 'Tik Tok',
+                href: 'https://tiktok.com/@theatrikiopa',
+              },              
+              {
                 label: 'Twitter',
                 href: 'https://twitter.com/theatrikiopa',
               },
