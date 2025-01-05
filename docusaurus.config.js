@@ -197,7 +197,6 @@ const config = {
         theme: lightCodeTheme,
         darkTheme: darkCodeTheme,
       },
-      customCss: require.resolve('./src/css/custom.css'), // Ensure this points to your custom CSS file
     }),
 };
 
