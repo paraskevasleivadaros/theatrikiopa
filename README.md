@@ -5,7 +5,7 @@ A website built on React hosted on Vercel to serve the needs of the AUEB Drama C
 ![theater-aueb-logo](https://github.com/theatrikiopa/docusaurus-2/blob/main/static/img/gia-to-tremameno-soma/43.jpg)
 
 ## 🍴 Forking this repo
-You are welcome to fork and use this repo as you wish for your team, however, it would be really kind if you give us credit by including a link back to our website at [theater.aueb.gr](https://docusaurus-2-taupe-pi.vercel.app). Additionally, if you could also leave a 🌟, it would be greatly appreciated. Thank you!
+You are welcome to fork and use this repo as you wish for your team, however, it would be really kind if you give us credit by including a link back to our website at [theater.aueb.gr](https://docusaurus-2-theater-aueb.vercel.app). Additionally, if you could also leave a 🌟, it would be greatly appreciated. Thank you!
 
 ## 🛠️ Tech Stack
 [![JS](https://skillicons.dev/icons?i=js)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
