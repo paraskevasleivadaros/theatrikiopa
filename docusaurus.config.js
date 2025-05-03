@@ -159,6 +159,30 @@ const config = {
             ],
           },
           {
+            title: 'Εργαστήρια',
+            items: [
+              { label: '2023-2024', to: '/ergastiria#2023-2024' },
+              { label: '2022-2023', to: '/ergastiria#2022-2023' },
+              { label: 'Περισσότερα…', to: '/ergastiria' },
+            ],
+          },
+          {
+            title: 'Παραστάσεις',
+            items: [
+              { label: '2024', to: '/parastaseis#2024' },
+              { label: '2023', to: '/parastaseis#2023' },
+              { label: 'Περισσότερα…', to: '/parastaseis' },
+            ],
+          },
+          {
+            title: 'Επικοινωνία',
+            items: [
+              { label: 'Σχετικά Με', to: '/contact/about' },
+              { label: 'Συχνές Ερωτήσεις', to: '/contact/faq' },
+              { label: 'Τρόπoς Λειτουργίας', to: '/contact/tropos-leitourgias' },
+            ],
+          },          
+          {
             title: 'Όροι και Προϋποθέσεις',
             items: [  
               {
