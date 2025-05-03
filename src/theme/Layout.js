@@ -11,6 +11,7 @@ import LayoutProvider from '@theme/Layout/Provider';
 import ErrorPageContent from '@theme/ErrorPageContent';
 import styles from './styles.module.css';
 import { inject } from '@vercel/analytics';
+import { SpeedInsights } from '@vercel/speed-insights/react';
 
 inject(); // ← Vercel Analytics is initialized here
 
@@ -43,6 +44,7 @@ export default function Layout(props) {
         </ErrorBoundary>
       </div>
       {!noFooter && <Footer />}
+      <SpeedInsights />
     </LayoutProvider>
   );
 }
