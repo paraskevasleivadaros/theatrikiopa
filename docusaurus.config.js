@@ -108,6 +108,7 @@ const config = {
             position: 'left',
             items: [
               //{ label: 'Ένωση', to: '/contact/enosi' },
+              { label: 'Σχετικά Με', to: '/contact/about' },              
               { label: 'Συχνές Ερωτήσεις', to: '/contact/faq' },
               //{ label: 'Ενημερωτικό Δελτίο', to: '/contact/newsletter' },        
               { label: 'Τρόπoς Λειτουργίας', to: '/contact/tropos-leitourgias' },                  
@@ -158,24 +159,16 @@ const config = {
             ],
           },
           {
-            title: 'Σχετικά με',
-            items: [
-              {
-                label: 'Σκοπός',
-                to: '/about',
-              },              
+            title: 'Όροι και Προϋποθέσεις',
+            items: [          
               {
                 label: 'Πολιτική Cookies',
-                to: '/about/cookies',
+                to: '/terms-and-conditions/cookies',
               },
               {
                 label: 'Πολιτική Απορρήτου',
-                to: '/about/privacy-policy',
-              },
-              {
-                label: 'Όροι και Προϋποθέσεις',
-                to: '/about/terms-and-conditions',
-              },              
+                to: '/terms-and-conditions/privacy-policy',
+              },         
             ],
           },
           {
