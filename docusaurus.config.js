@@ -176,20 +176,16 @@ const config = {
           },
           {
             title: 'Επικοινωνία',
-            items: [
-              { label: '↳ Σελίδα Επικοινωνίας', to: '/contact' },              
+            items: [            
               { label: 'Σχετικά Με', to: '/contact/about' },
               { label: 'Συχνές Ερωτήσεις', to: '/contact/faq' },
               { label: 'Τρόπoς Λειτουργίας', to: '/contact/tropos-leitourgias' },
+              { label: 'Στοιχεία Επικοινωνίας', to: '/contact' },                
             ],
           },          
           {
             title: 'Όροι και Προϋποθέσεις',
-            items: [  
-              {
-                label: 'Γενικοί Όροι Χρήσης',
-                to: '/terms-and-conditions',
-              },              
+            items: [              
               {
                 label: 'Πολιτική Cookies',
                 to: '/terms-and-conditions/cookies',
@@ -197,7 +193,11 @@ const config = {
               {
                 label: 'Πολιτική Απορρήτου',
                 to: '/terms-and-conditions/privacy-policy',
-              },         
+              },   
+              {
+                label: 'Γενικοί Όροι Χρήσης',
+                to: '/terms-and-conditions',
+              },              
             ],
           },
           {
