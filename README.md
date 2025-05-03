@@ -4,13 +4,13 @@ A website built on React hosted on Vercel to serve the needs of the AUEB Drama C
 ![theater-aueb-cover](static/img/logo-512x512.png)
 
 ## 🛠️ Tech Stack
-[![JS](https://skillicons.dev/icons?i=js)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-[![CSS](https://skillicons.dev/icons?i=css)](https://developer.mozilla.org/en-US/docs/Web/CSS)
 [![MDX](https://skillicons.dev/icons?i=md)](https://mdxjs.com/)
-[![HTML](https://skillicons.dev/icons?i=html)](https://developer.mozilla.org/en-US/docs/Web/HTML)
 [![React](https://skillicons.dev/icons?i=react)](https://react.dev)
 [![Vercel](https://skillicons.dev/icons?i=vercel)](https://vercel.com)
 [![Docusaurus](https://skillicons.dev/icons?i=docusaurus)](https://docusaurus.io)
+[![CSS](https://skillicons.dev/icons?i=css)](https://developer.mozilla.org/en-US/docs/Web/CSS)
+[![HTML](https://skillicons.dev/icons?i=html)](https://developer.mozilla.org/en-US/docs/Web/HTML)
+[![JS](https://skillicons.dev/icons?i=js)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 
 ## 🚀 Deploy Your Own
 This repository is a fully customized [Docusaurus](https://v2.docusaurus.io) site deployed to Vercel. While Docusaurus can be deployed with zero configuration, **this project includes extensive modifications** tailored to the AUEB Drama Club's needs — including custom components, styling, and content architecture.
