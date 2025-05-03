@@ -160,7 +160,11 @@ const config = {
           },
           {
             title: 'Όροι και Προϋποθέσεις',
-            items: [          
+            items: [  
+              {
+                label: 'Γενικοί Όροι Χρήσης',
+                to: '/terms-and-conditions',
+              },              
               {
                 label: 'Πολιτική Cookies',
                 to: '/terms-and-conditions/cookies',
