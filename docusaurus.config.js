@@ -177,6 +177,7 @@ const config = {
           {
             title: 'Επικοινωνία',
             items: [
+              { label: '↳ Σελίδα Επικοινωνίας', to: '/contact' },              
               { label: 'Σχετικά Με', to: '/contact/about' },
               { label: 'Συχνές Ερωτήσεις', to: '/contact/faq' },
               { label: 'Τρόπoς Λειτουργίας', to: '/contact/tropos-leitourgias' },
