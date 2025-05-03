@@ -134,11 +134,7 @@ const config = {
               {
                 label: 'Instagram',
                 href: 'https://instagram.com/theatrikiopa',
-              },              
-              {
-                label: 'TikTok',
-                href: 'https://tiktok.com/@theatrikiopa',
-              },     
+              },               
               {
                 label: 'Facebook',
                 href: 'https://facebook.com/theatrikiopa',
@@ -147,6 +143,10 @@ const config = {
                 label: 'Youtube',
                 href: 'https://youtube.com/@theatrikiopa',
               },
+              {
+                label: 'TikTok',
+                href: 'https://tiktok.com/@theatrikiopa',
+              },              
               // {
               //   label: 'LinkedIn',
               //   href: 'https://linkedin.com/company/theatrikiopa',
