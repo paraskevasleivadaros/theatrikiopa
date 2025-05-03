@@ -163,7 +163,6 @@ const config = {
             items: [
               { label: '2023-2024', to: '/ergastiria#2023-2024' },
               { label: '2022-2023', to: '/ergastiria#2022-2023' },
-              { label: '2021-2022', to: '/ergastiria#2021-2022' },
               { label: 'Περισσότερα…', to: '/ergastiria' },
             ],
           },
@@ -172,7 +171,6 @@ const config = {
             items: [
               { label: '2024', to: '/parastaseis#2024' },
               { label: '2023', to: '/parastaseis#2023' },
-              { label: '2022', to: '/parastaseis#2022' },
               { label: 'Περισσότερα…', to: '/parastaseis' },
             ],
           },
