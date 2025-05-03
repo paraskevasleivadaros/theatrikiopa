@@ -109,7 +109,7 @@ const config = {
             items: [
               { label: 'Ένωση', to: '/contact/enosi' },
               { label: 'Συχνές Ερωτήσεις', to: '/contact/faq' },
-              { label: 'Ενημερωτικό Δελτίο', to: '/contact/newsletter' },        
+              //{ label: 'Ενημερωτικό Δελτίο', to: '/contact/newsletter' },        
               { label: 'Τρόπoς Λειτουργίας', to: '/contact/tropos-leitourgias' },                  
             ],
           },            
