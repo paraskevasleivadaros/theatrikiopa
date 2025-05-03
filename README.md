@@ -7,7 +7,6 @@ A website built on React hosted on Vercel to serve the needs of the AUEB Drama C
 [![MDX](https://skillicons.dev/icons?i=md)](https://mdxjs.com/)
 [![React](https://skillicons.dev/icons?i=react)](https://react.dev)
 [![Vercel](https://skillicons.dev/icons?i=vercel)](https://vercel.com)
-[![Docusaurus](https://skillicons.dev/icons?i=docusaurus)](https://docusaurus.io)
 [![CSS](https://skillicons.dev/icons?i=css)](https://developer.mozilla.org/en-US/docs/Web/CSS)
 [![HTML](https://skillicons.dev/icons?i=html)](https://developer.mozilla.org/en-US/docs/Web/HTML)
 [![JS](https://skillicons.dev/icons?i=js)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
