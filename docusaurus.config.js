@@ -9,7 +9,7 @@ const config = {
   title: 'Θεατρική Ομάδα ΟΠΑ',
   tagline: 'Οικονομικό Πανεπιστήμιο Αθηνών',
   //url: 'https://your-docusaurus-test-site.com',
-  url: 'https://theater-aueb-gr.vercel.app'
+  url: 'https://theater-aueb-gr.vercel.app',
   baseUrl: '/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
