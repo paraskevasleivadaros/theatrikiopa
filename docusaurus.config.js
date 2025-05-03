@@ -223,4 +223,14 @@ const config = {
     }),
 };
 
+config.plugins = [
+  [
+    '@docusaurus/plugin-google-gtag',
+    {
+      trackingID: 'G-KNLXMF7Z81',
+      anonymizeIP: true, // Optional: respects user privacy
+    },
+  ],
+];
+
 module.exports = config;
