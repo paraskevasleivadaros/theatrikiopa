@@ -1,12 +1,8 @@
 ---
 slug: enarxh-ergasthriwn-2022-2023
 title: Έναρξη Εργαστηρίων 2022-2023
-authors:
-  name: Θεατρική Ομάδα ΟΠΑ
-  title: Οικονομικό Πανεπιστήμιο Αθηνών
-  url: https://github.com/theatrikiopa
-  image_url: /img/logo.svg
-  tags: [εργαστήρια, 2022-2023]
+authors: [theatrikiopa]
+tags: [εργαστήρια, 2022-2023]
 ---
 
 ![katara-epi-thivas-16](/img/blog/enarxh-ergasthriwn-2022-2023.png)
