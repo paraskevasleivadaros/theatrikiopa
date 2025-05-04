@@ -1,11 +1,7 @@
 ---
 slug: enarxh-ergasthriwn-2016-2017
 title: Έναρξη Εργαστηρίων 2016-2017
-authors:
-  name: Θεατρική Ομάδα ΟΠΑ
-  title: Οικονομικό Πανεπιστήμιο Αθηνών
-  url: https://github.com/theatrikiopa
-  image_url: /img/logo.svg
+authors: [theatrikiopa]
 tags: [εργαστήρια, 2016-2017]
 ---
 
