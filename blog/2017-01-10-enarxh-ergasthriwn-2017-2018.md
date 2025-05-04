@@ -9,7 +9,7 @@ authors:
   tags: [εργαστήρια, 2017-2018]
 ---
 
-![σαρλο](https://github.com/theatrikiopa/theatrikiopa.eu/assets/16403754/b53615c5-6cab-4342-acbe-332340149b85)
+![sarlo](/img/blog/enarxh-ergasthriwn-2017-2018.png)
 
 Πιστεύεις πως έχεις συγγένεια με τον Johnny Depp αλλά όλοι προσπαθούν να στο κρύψουν (όχι);
 
