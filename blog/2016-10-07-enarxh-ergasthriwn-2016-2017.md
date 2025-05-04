@@ -9,7 +9,7 @@ authors:
 tags: [εργαστήρια, 2016-2017]
 ---
 
-![kolazthoopa-e1583243746835](https://github.com/theatrikiopa/theatrikiopa.eu/assets/16403754/63e67a25-713a-4715-af78-8dee652f8093)
+![kolazthoopa](/img/blog/enarxh-ergasthriwn-2016-2017.png)
 
 Ήρθε η ώρα που όλοι περιμέναμε..
 
