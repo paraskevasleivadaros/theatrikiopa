@@ -1,12 +1,8 @@
 ---
 slug: enarxh-ergasthriwn-2019-2020
 title: Έναρξη Εργαστηρίων 2019-2020
-authors:
-  name: Θεατρική Ομάδα ΟΠΑ
-  title: Οικονομικό Πανεπιστήμιο Αθηνών
-  url: https://github.com/theatrikiopa
-  image_url: /img/logo.svg
-  tags: [εργαστήρια, 2019-2020]
+authors: [theatrikiopa]
+tags: [εργαστήρια, 2019-2020]
 ---
 
 ![parastaseis-2018-2019](/img/blog/enarxh-ergasthriwn-2019-2020.png)
