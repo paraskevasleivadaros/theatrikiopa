@@ -1,12 +1,8 @@
 ---
 slug: diakoph-ergasthriwn-2017-2018
 title: Διακοπή Εργαστηρίων 2017-2018
-authors:
-  name: Θεατρική Ομάδα ΟΠΑ
-  title: Οικονομικό Πανεπιστήμιο Αθηνών
-  url: https://github.com/theatrikiopa
-  image_url: /img/logo.svg
-  tags: [εργαστήρια, 2017-2018]
+authors: [theatrikiopa]
+tags: [εργαστήρια, 2017-2018]
 ---
 
 ![diakoph-ergastiriwn-2017-2018](/img/blog/diakoph-ergastiriwn-2017-2018.png)
