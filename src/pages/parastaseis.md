@@ -10,6 +10,10 @@ title: Παραστάσεις
 
 Η προετοιμασία των παραστάσεων ξεκινά τον Ιανουάριο και η παρουσίασή τους γίνεται τον Μάιο, σε θέατρα της Αθήνας.
 
+## 2025
+
+![under construction](/img/under_construction.png)
+
 ## 2024
 
 ![gia-to-tremameno-soma-43](/img/gia-to-tremameno-soma/43.jpg)
