@@ -170,8 +170,8 @@ const config = {
           {
             title: 'Παραστάσεις',
             items: [
+              { label: '2025', to: '/parastaseis#2025' },
               { label: '2024', to: '/parastaseis#2024' },
-              { label: '2023', to: '/parastaseis#2023' },
               { label: 'Περισσότερα…', to: '/parastaseis' },
             ],
           },
