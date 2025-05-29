@@ -11,6 +11,9 @@ const config = {
   //url: 'https://your-docusaurus-test-site.com',
   url: 'https://theatrikiopa.vercel.app',
   baseUrl: '/',
+  customFields: {
+    siteBaseUrl: 'https://theatrikiopa.vercel.app',
+  },  
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',
