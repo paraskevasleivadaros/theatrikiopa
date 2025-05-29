@@ -6,7 +6,7 @@ export default function Seo({title, description, image, url}) {
   const {siteConfig} = useDocusaurusContext();
   const siteTitle = title || siteConfig.title;
   const siteDesc = description || siteConfig.tagline;
-  const siteImage = image || siteConfig.url + '/img/default-og.jpg';
+  const siteImage = image || siteConfig.url + '/img/logo.png';
   const siteUrl = url || siteConfig.url;
 
   return (
