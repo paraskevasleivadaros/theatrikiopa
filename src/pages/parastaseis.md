@@ -18,8 +18,8 @@ title: Παραστάσεις
 - Θέατρο OLVIO
 - Θέατρο Άβατον
 
-### [Λάβερς, ένα ρομάντζο για εννιά πρόσωπα]
 ![under construction](/img/under-construction.png)
+### [Λάβερς, ένα ρομάντζο για εννιά πρόσωπα](/parastaseis/2025/lavers-ena-romantzo-gia-ennia-prosopa)
 
 ## 2024
 
