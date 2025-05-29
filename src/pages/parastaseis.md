@@ -12,6 +12,13 @@ title: Παραστάσεις
 
 ## 2025
 
+![mikroi-pirovolismoi-mesa-sti-nixta](/img/mikroi-pirovolismoi-mesa-sti-nixta/poster.png)
+### [Μικροί πυροβολισμοί μέσα στη νύχτα](/parastaseis/2025/mikroi-pirovolismoi-mesa-sti-nixta)
+Σκηνοθεσία: Σπύρος Χαϊντούτης
+- Θέατρο OLVIO
+- Θέατρο Άβατον
+
+### [Λάβερς, ένα ρομάντζο για εννιά πρόσωπα]
 ![under construction](/img/under-construction.png)
 
 ## 2024
