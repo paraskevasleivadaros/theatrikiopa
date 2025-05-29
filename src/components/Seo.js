@@ -2,12 +2,18 @@ import React from 'react';
 import Head from '@docusaurus/Head';
 import useDocusaurusContext from '@docusaurus/useDocusaurusContext';
 
-export default function Seo({title, description, image, url}) {
-  const {siteConfig} = useDocusaurusContext();
+export default function Seo({ title, description, image, url }) {
+  const { siteConfig } = useDocusaurusContext();
   const siteTitle = title || siteConfig.title;
   const siteDesc = description || siteConfig.tagline;
-  const siteImage = image || siteConfig.url + '/img/logo.png';
-  const siteUrl = url || siteConfig.url;
+
+  // Ensure absolute image URL
+  const baseUrl = siteConfig.url || 'https://theatrikiopa.vercel.app';
+  const siteImage = image?.startsWith('http')
+    ? image
+    : `${baseUrl.replace(/\/$/, '')}/${image?.replace(/^\/+/, '') || 'img/logo.png'}`;
+
+  const siteUrl = url || baseUrl;
 
   return (
     <Head>
