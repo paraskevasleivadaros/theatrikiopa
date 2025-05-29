@@ -8,6 +8,9 @@ on:
   schedule:
     - cron: '19 4 1 * *'  # Monthly on the 1st at 04:19 UTC
 
+permissions:
+  contents: read
+  
 jobs:
   analyze:
     name: Analyze (${{ matrix.language }})
