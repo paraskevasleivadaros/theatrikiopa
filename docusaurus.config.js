@@ -13,7 +13,8 @@ const config = {
   baseUrl: '/',
   customFields: {
     siteBaseUrl: 'https://theatrikiopa.vercel.app',
-  },  
+    siteDisplayName: 'theatre.aueb.gr',
+  },
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',
