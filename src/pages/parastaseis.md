@@ -12,7 +12,7 @@ title: Παραστάσεις
 
 ## 2025
 
-![under construction](/img/under_construction.png)
+![under construction](/img/under-construction.png)
 
 ## 2024
 
