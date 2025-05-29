@@ -7,8 +7,8 @@ export default function Seo({ title, description, image, url }) {
   const siteTitle = title || siteConfig.title;
   const siteDesc = description || siteConfig.tagline;
 
-  // Ensure absolute image URL
-  const baseUrl = siteConfig.url || 'https://theatrikiopa.vercel.app';
+  // Use siteBaseUrl from customFields if available
+  const baseUrl = siteConfig.customFields?.siteBaseUrl || siteConfig.url;
   const siteImage = image?.startsWith('http')
     ? image
     : `${baseUrl.replace(/\/$/, '')}/${image?.replace(/^\/+/, '') || 'img/logo.png'}`;
