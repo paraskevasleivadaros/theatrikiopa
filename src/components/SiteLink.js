@@ -2,8 +2,20 @@
 import React from 'react';
 import useDocusaurusContext from '@docusaurus/useDocusaurusContext';
 
-export default function SiteLink({ path, children }) {
-  const { siteConfig } = useDocusaurusContext();
-  const base = siteConfig.customFields.siteBaseUrl;
-  return <a href={`${base}${path}`}>{children}</a>;
+export default function SiteLink({ href, children, ...props }) {
+  const {
+    siteConfig: {
+      customFields: { siteBaseUrl } = {},
+    },
+  } = useDocusaurusContext();
+
+  const normalizedHref = href.startsWith('/')
+    ? `${siteBaseUrl}${href}`
+    : `${siteBaseUrl}/${href}`;
+
+  return (
+    <a href={normalizedHref} {...props}>
+      {children}
+    </a>
+  );
 }
