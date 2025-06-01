@@ -55,7 +55,7 @@ title: Παραστάσεις
 - [15η Διεθνής Πανεπιστημιάδα Θεάτρου | Σέρρες](https://dipetheserron.gr/archive/item/42-15%CE%B7-%CF%80%CE%B1%CE%BD%CE%B5%CF%80%CE%B9%CF%83%CF%84%CE%B7%CE%BC%CE%B9%CE%B1%CE%B4%CE%B1-%CE%B8%CE%B5%CE%B1%CF%84%CF%81%CE%BF%CF%85-2019)
 
 ### [Η Πτήση των Λίντμπεργκ ή Το μαύρο κουτί](/parastaseis/2019/lindenberg-flight-mauro-kouti)
-![lindenberg-flight-mauro-kouti-02](/img/lindenberg-flight-mauro-kouti/02.jpg)  
+![lindenberg-flight-mauro-kouti-03](/img/lindenberg-flight-mauro-kouti/03.jpg)  
 Σκηνοθεσία: Πέγκυ Ψαρρού
 - Θέατρο Παραμυθίας
 
