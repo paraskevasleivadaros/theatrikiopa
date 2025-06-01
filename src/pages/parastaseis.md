@@ -14,7 +14,7 @@ title: Παραστάσεις
 - Θέατρο Άβατον
 
 ### [Λάβερς, ένα ρομάντζο για εννέα πρόσωπα](/parastaseis/2025/lavers-ena-romantzo-gia-ennea-prosopa)
-![under construction](/img/under-construction.png)  
+![lavers-ena-romantzo-gia-ennea-prosopa-poster](/img/lavers-ena-romantzo-gia-ennea-prosopa/poster.png)  
 
 ## 2024
 ### [Για το τρεμάμενο σώμα](/parastaseis/2024/gia-to-tremameno-soma)
