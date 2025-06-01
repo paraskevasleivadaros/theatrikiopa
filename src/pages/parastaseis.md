@@ -113,7 +113,7 @@ title: Παραστάσεις
 - Altera Pars
 
 ### [Αντιγόνη του Μπρεχτ](/parastaseis/2016/antigoni-tou-brecht)
-![antigoni-tou-brecht-10](/img/antigoni-tou-brecht/10.jpg)  
+![antigoni-tou-brecht-11](/img/antigoni-tou-brecht/11.jpg)  
 Σκηνοθεσία: Νάση Σακιώτη
 - Altera Pars
 
