@@ -92,7 +92,7 @@ title: Παραστάσεις
 - Θέατρο Βαφείο - Λάκης Κάραλης
 
 ### [Σαν πατρίδα Κυριακή μεσημέρι](/parastaseis/2017/san-patrida-kyriakh-meshmeri)
-![san-patrida-kyriakh-meshmeri-02](/img/san-patrida-kyriakh-meshmeri/02.jpg)  
+![san-patrida-kyriakh-meshmeri-08](/img/san-patrida-kyriakh-meshmeri/08.jpg)  
 Σκηνοθεσία: Σμαρώ Πλατιώτη
 - Θέατρο Εμπρός
 
