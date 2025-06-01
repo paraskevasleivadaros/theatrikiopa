@@ -97,7 +97,7 @@ title: Παραστάσεις
 - Θέατρο Εμπρός
 
 ### [Η Αυλή των Θαυμάτων](/parastaseis/2017/avli-ton-thavmaton)
-![avli-ton-thavmaton-04](/img/avli-ton-thavmaton/04.jpg)  
+![avli-ton-thavmaton-cover](/img/avli-ton-thavmaton/cover.jpg)  
 Σκηνοθεσία: Έφη Αντωνάκου
 - Θέατρο Βαφείο / Λάκης Κάραλης
 
