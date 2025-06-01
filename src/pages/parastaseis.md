@@ -15,6 +15,8 @@ title: Παραστάσεις
 
 ### [Λάβερς, ένα ρομάντζο για εννέα πρόσωπα](/parastaseis/2025/lavers-ena-romantzo-gia-ennea-prosopa)
 ![lavers-ena-romantzo-gia-ennea-prosopa-poster](/img/lavers-ena-romantzo-gia-ennea-prosopa/poster.png)  
+Σκηνοθεσία: Τάκης Ζαχαριάδης
+- Θέατρο ΠΛΥΦΑ
 
 ## 2024
 ### [Για το τρεμάμενο σώμα](/parastaseis/2024/gia-to-tremameno-soma)
