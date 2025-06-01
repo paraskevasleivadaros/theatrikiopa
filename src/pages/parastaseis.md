@@ -60,7 +60,7 @@ title: Παραστάσεις
 - Θέατρο Παραμυθίας
 
 ### [Ζυγίζω μηδέν κιλά](/parastaseis/2019/zygizw-mhden-kila)
-![zygizw-mhden-kila-01](/img/zygizw-mhden-kila/01.jpg)  
+![zygizw-mhden-kila-01](/img/zygizw-mhden-kila/10.jpg)  
 Σκηνοθεσία: Άρτεμις Βαλτζάκη, Αλέξανδρος Νικητόπουλος
 - Θέατρο Παραμυθίας
 - 16ο Πανελλήνιο Φεστιβάλ Φοιτητικών Θεατρικών Ομάδων | Χανιά
