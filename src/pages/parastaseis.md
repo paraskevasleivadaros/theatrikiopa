@@ -7,16 +7,16 @@ title: Παραστάσεις
 Η ομάδα ανεβάζει κάθε χρόνο μία ή περισσότερες παραστάσεις, ανάλογα με τον αριθμό των ατόμων που δηλώνουν συμμετοχή. Η προετοιμασία των παραστάσεων ξεκινά τον Ιανουάριο και η παρουσίασή τους γίνεται τον Μάιο, σε θέατρα της Αθήνας.
 
 ## 2025
+### [Λάβερς, ένα ρομάντζο για εννέα πρόσωπα](/parastaseis/2025/lavers-ena-romantzo-gia-ennea-prosopa)
+![lavers-ena-romantzo-gia-ennea-prosopa-poster](/img/lavers-ena-romantzo-gia-ennea-prosopa/05.png)  
+Σκηνοθεσία: Τάκης Ζαχαριάδης
+- Θέατρο ΠΛΥΦΑ
+
 ### [Μικροί πυροβολισμοί μέσα στη νύχτα](/parastaseis/2025/mikroi-pirovolismoi-mesa-sti-nixta)
 ![mikroi-pirovolismoi-mesa-sti-nixta](/img/mikroi-pirovolismoi-mesa-sti-nixta/09.png)  
 Σκηνοθεσία: Σπύρος Χαϊντούτης
 - Θέατρο OLVIO
 - Θέατρο Άβατον
-
-### [Λάβερς, ένα ρομάντζο για εννέα πρόσωπα](/parastaseis/2025/lavers-ena-romantzo-gia-ennea-prosopa)
-![lavers-ena-romantzo-gia-ennea-prosopa-poster](/img/lavers-ena-romantzo-gia-ennea-prosopa/05.png)  
-Σκηνοθεσία: Τάκης Ζαχαριάδης
-- Θέατρο ΠΛΥΦΑ
 
 ## 2024
 ### [Για το τρεμάμενο σώμα](/parastaseis/2024/gia-to-tremameno-soma)
