@@ -8,13 +8,13 @@ title: Παραστάσεις
 
 ## 2025
 ### [Μικροί πυροβολισμοί μέσα στη νύχτα](/parastaseis/2025/mikroi-pirovolismoi-mesa-sti-nixta)
-![mikroi-pirovolismoi-mesa-sti-nixta](/img/mikroi-pirovolismoi-mesa-sti-nixta/poster.png)  
+![mikroi-pirovolismoi-mesa-sti-nixta](/img/mikroi-pirovolismoi-mesa-sti-nixta/09.png)  
 Σκηνοθεσία: Σπύρος Χαϊντούτης
 - Θέατρο OLVIO
 - Θέατρο Άβατον
 
 ### [Λάβερς, ένα ρομάντζο για εννέα πρόσωπα](/parastaseis/2025/lavers-ena-romantzo-gia-ennea-prosopa)
-![lavers-ena-romantzo-gia-ennea-prosopa-poster](/img/lavers-ena-romantzo-gia-ennea-prosopa/poster.png)  
+![lavers-ena-romantzo-gia-ennea-prosopa-poster](/img/lavers-ena-romantzo-gia-ennea-prosopa/05.png)  
 Σκηνοθεσία: Τάκης Ζαχαριάδης
 - Θέατρο ΠΛΥΦΑ
 
