@@ -2,6 +2,15 @@
 title: Ανθρώπων Έργα
 ---
 import ResponsivePDF from '@site/src/components/ResponsivePDF';
+import Seo from '@site/src/components/Seo';
+
+<Seo 
+  title="Ανθρώπων Έργα"
+  description="Ένα 6ήμερο θεατρικό φεστιβάλ της Θεατρικής Ομάδας ΟΠΑ με δρώμενα, σεμινάρια και παραστάσεις για τον Άνθρωπο και την έκφραση."
+  image="https://theatrikiopa.vercel.app/img/anthropon-erga/poster.jpg"
+  imageAlt="Αφίσα του φεστιβάλ Ανθρώπων Έργα"
+  url="https://theatrikiopa.vercel.app/parastaseis/2016/anthropon-erga"
+/>
 
 # Ανθρώπων Έργα
 
