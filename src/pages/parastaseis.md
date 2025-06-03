@@ -137,7 +137,7 @@ title: Παραστάσεις
 - Θέατρο Ανωτάτης Σχολής Καλών Τεχνών
 - [11η Διεθνής Πανεπιστημιάδα Θεάτρου | Σέρρες](https://dipetheserron.gr/archive/item/38-11%CE%B7-%CF%80%CE%B1%CE%BD%CE%B5%CF%80%CE%B9%CF%83%CF%84%CE%B7%CE%BC%CE%B9%CE%B1%CE%B4%CE%B1-%CE%B8%CE%B5%CE%B1%CF%84%CF%81%CE%BF%CF%85-2015)
 
-### [Το Ξύπνημα της Άνοιξης](/parastaseis/2015/ksipnima-ths-aniksis)
+### [Το Ξύπνημα της Άνοιξης](/parastaseis/2015/xypnima-tis-anoixis)
 ![xypnima-tis-anoixis-04](/img/xypnima-tis-anoixis/04.jpg)  
 Σκηνοθεσία: Βασίλης Ασλανίδης
 - Δημοτικό Θέατρο Καλλιθέας
