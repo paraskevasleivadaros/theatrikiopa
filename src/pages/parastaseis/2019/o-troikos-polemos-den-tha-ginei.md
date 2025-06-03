@@ -12,7 +12,6 @@ import Seo from '@site/src/components/Seo';
 />
 
 # Ο Τρωικός Πόλεμος δεν θα γίνει
-
 ![o-troikos-polemos-den-tha-ginei](/img/o-troikos-polemos-den-tha-ginei/poster.jpg)
 
 Ο Τρωικός Πόλεμος δεν θα γίνει» του Ζαν Ζιρωντού.
@@ -22,35 +21,28 @@ import Seo from '@site/src/components/Seo';
 Γραμμένο λίγα χρόνια πριν την έναρξη του Β’ Παγκοσμίου Πολέμου, το έργο είναι μια έκκληση για ειρήνη. Εναλλάσσοντας με μαεστρία την κωμωδία με το δράμα κάτω από τη σκιά του πεπρωμένου, ο Ζαν Ζιρωντού κατορθώνει να μας μιλήσει για τα φλέγοντα ζητήματα της εποχής του, όπως ο φανατισμός, η κοινωνική πόλωση και η θέση της γυναίκας σε μια πατριαρχική κοινωνία. Ζητήματα που είναι και σήμερα επίκαιρα όσο ποτέ.
 
 ## Πληροφορίες
-25 Μαΐου 2019 - **ΔΗ.ΠΕ.ΘΕ. Σερρών** 21:00 
-
-28 Μαΐου με 1 Ιουνίου 2019 - **Θέατρο Παραμυθίας** 20:00
-
+25 Μαΐου 2019 - **ΔΗ.ΠΕ.ΘΕ. Σερρών** 21:00  
+28 Μαΐου με 1 Ιουνίου 2019 - **Θέατρο Παραμυθίας** 20:00  
 (διάρκεια 120′ με 10′ διάλειμμα) - **Είσοδος Ελεύθερη**
 
 ## Συντελεστές
-**Σκηνοθεσία:** Γεράσιμος Αρτελάρης
-
-**Βοηθός Σκηνοθέτη:** Μαρία Σεβαστή
-
-**Μουσική Επιμέλεια:** Γαβρίλος Καζάνας
-
-**Σκηνικά/Κοστούμια:** Θεατρική Ομάδα Ο.Π.Α.
-
-> Ευχαριστούμε πολύ τον Βασίλη Ασλανίδη και την Βίκυ Σαρρή για την πολύτιμη βοήθειά τους
+**Σκηνοθεσία**: Γεράσιμος Αρτελάρης  
+**Βοηθός Σκηνοθέτη:**: Μαρία Σεβαστή  
+**Μουσική Επιμέλεια**: Γαβρίλος Καζάνας  
+**Σκηνικά/Κοστούμια**: Θεατρική Ομάδα Ο.Π.Α.
 
 ## Ερμηνεύουν
 Ανδρέας Αθανασόπουλος, Στάθης Αλιπράντης, Μαρία Αρνίδη, Αγάπη Αστροπεκάκη, Άρης Γιασημάκης, Πόπη Δεδούση, Γιώργος Σέρβος, Γαβρίλος Καζάνας, Παναγιώτης Κανελλόπουλος, Κώστας Κιούσης, Ελίνα Καταλαγαργιανού, Παναγιώτης Κοτσώνης, Κωνσταντίνα Μάνη, Βάσω Ντεβέ, Στέλιος Παπαγρηγοριάδης, Ηλιάννα Ρόγκα, Φωτεινή Σαλβαρίδη, Κλεοπάτρα Σαπουνά, Ζωή Τσιρούκη, Μαρία Τσιτσάνη, Νικολέττα Χατζή, Ιωάννα Χοτόβα
 
 ## Ευχαριστούμε 
-πολύ το κοινό που παρευρέθηκε. Σας περιμένουμε στις επόμενες παραστάσεις μας!
+πολύ τον Βασίλη Ασλανίδη και την Βίκυ Σαρρή για την πολύτιμη βοήθειά τους, καθώς και το πολύ το κοινό που παρευρέθηκε. Σας περιμένουμε στις επόμενες παραστάσεις μας!
 
-![o-troikos-polemos-den-tha-ginei-01](/img/o-troikos-polemos-den-tha-ginei/01.jpg)
-![o-troikos-polemos-den-tha-ginei-02](/img/o-troikos-polemos-den-tha-ginei/02.jpg)
-![o-troikos-polemos-den-tha-ginei-03](/img/o-troikos-polemos-den-tha-ginei/03.jpg)
-![o-troikos-polemos-den-tha-ginei-04](/img/o-troikos-polemos-den-tha-ginei/04.jpg)
-![o-troikos-polemos-den-tha-ginei-05](/img/o-troikos-polemos-den-tha-ginei/05.jpg)
-![o-troikos-polemos-den-tha-ginei-06](/img/o-troikos-polemos-den-tha-ginei/06.jpg)
-![o-troikos-polemos-den-tha-ginei-07](/img/o-troikos-polemos-den-tha-ginei/07.jpg)
-![o-troikos-polemos-den-tha-ginei-08](/img/o-troikos-polemos-den-tha-ginei/08.jpg)
+![o-troikos-polemos-den-tha-ginei-01](/img/o-troikos-polemos-den-tha-ginei/01.jpg)  
+![o-troikos-polemos-den-tha-ginei-02](/img/o-troikos-polemos-den-tha-ginei/02.jpg)  
+![o-troikos-polemos-den-tha-ginei-03](/img/o-troikos-polemos-den-tha-ginei/03.jpg)  
+![o-troikos-polemos-den-tha-ginei-04](/img/o-troikos-polemos-den-tha-ginei/04.jpg)  
+![o-troikos-polemos-den-tha-ginei-05](/img/o-troikos-polemos-den-tha-ginei/05.jpg)  
+![o-troikos-polemos-den-tha-ginei-06](/img/o-troikos-polemos-den-tha-ginei/06.jpg)  
+![o-troikos-polemos-den-tha-ginei-07](/img/o-troikos-polemos-den-tha-ginei/07.jpg)  
+![o-troikos-polemos-den-tha-ginei-08](/img/o-troikos-polemos-den-tha-ginei/08.jpg)  
 ![o-troikos-polemos-den-tha-ginei-09](/img/o-troikos-polemos-den-tha-ginei/09.jpg)
