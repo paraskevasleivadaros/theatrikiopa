@@ -12,7 +12,6 @@ import Seo from '@site/src/components/Seo';
 />
 
 # Σαν πατρίδα Κυριακή μεσημέρι
-
 ![san-patrida-kyriakh-meshmeri-poster](/img/san-patrida-kyriakh-meshmeri/poster.jpg)
 
 Διαρκώς μετακινούμαστε. Διαρκώς αναζητούμε. Διαρκώς ονειρευόμαστε. Διαρκώς θυσιάζουμε και διαρκώς θυσιαζόμαστε. Για ν’ απολαύσουμε το καλύτερο. Το εὖ. Την ευ_τυχία. Την ευ_δαιμονία. Την ευ_πορία. Νέες πατρίδες, καινούριοι άνθρωποι, διαφορετικές συνήθειες.
@@ -28,13 +27,11 @@ import Seo from '@site/src/components/Seo';
 **Γιάννης Βασιλείου**
 
 ## Πληροφορίες
-22 με 27 Μαΐου 2017 - **Θέατρο Εμπρός** στις 21:00
-
+22 με 27 Μαΐου 2017 - **Θέατρο Εμπρός** στις 21:00  
 (διάρκεια 90′ χωρίς διάλειμμα) - **Είσοδος Ελεύθερη**
 
 ## Συντελεστές
-**Σκηνοθεσία:** Σμαρώ Πλατιώτη
-
+**Σκηνοθεσία:** Σμαρώ Πλατιώτη  
 **Κείμενα:** Νατάσα Μπαστέα, Θανάσης Νιάρχος, Μάνος Ελευθερίου, Μένης Κουμανταρέας, Μάρω Δούκα
 
 ## Ερμηνεύουν
@@ -43,12 +40,12 @@ import Seo from '@site/src/components/Seo';
 ## Ευχαριστούμε 
 πολύ το κοινό που παρευρέθηκε. Σας περιμένουμε στις επόμενες παραστάσεις μας!
 
-![san-patrida-kyriakh-meshmeri-01](/img/san-patrida-kyriakh-meshmeri/01.jpg)
-![san-patrida-kyriakh-meshmeri-02](/img/san-patrida-kyriakh-meshmeri/02.jpg)
-![san-patrida-kyriakh-meshmeri-03](/img/san-patrida-kyriakh-meshmeri/03.jpg)
-![san-patrida-kyriakh-meshmeri-04](/img/san-patrida-kyriakh-meshmeri/04.jpg)
-![san-patrida-kyriakh-meshmeri-05](/img/san-patrida-kyriakh-meshmeri/05.jpg)
-![san-patrida-kyriakh-meshmeri-06](/img/san-patrida-kyriakh-meshmeri/06.jpg)
-![san-patrida-kyriakh-meshmeri-07](/img/san-patrida-kyriakh-meshmeri/07.jpg)
-![san-patrida-kyriakh-meshmeri-08](/img/san-patrida-kyriakh-meshmeri/08.jpg)
+![san-patrida-kyriakh-meshmeri-01](/img/san-patrida-kyriakh-meshmeri/01.jpg)  
+![san-patrida-kyriakh-meshmeri-02](/img/san-patrida-kyriakh-meshmeri/02.jpg)  
+![san-patrida-kyriakh-meshmeri-03](/img/san-patrida-kyriakh-meshmeri/03.jpg)  
+![san-patrida-kyriakh-meshmeri-04](/img/san-patrida-kyriakh-meshmeri/04.jpg)  
+![san-patrida-kyriakh-meshmeri-05](/img/san-patrida-kyriakh-meshmeri/05.jpg)  
+![san-patrida-kyriakh-meshmeri-06](/img/san-patrida-kyriakh-meshmeri/06.jpg)  
+![san-patrida-kyriakh-meshmeri-07](/img/san-patrida-kyriakh-meshmeri/07.jpg)  
+![san-patrida-kyriakh-meshmeri-08](/img/san-patrida-kyriakh-meshmeri/08.jpg)  
 ![san-patrida-kyriakh-meshmeri-09](/img/san-patrida-kyriakh-meshmeri/09.jpg)
