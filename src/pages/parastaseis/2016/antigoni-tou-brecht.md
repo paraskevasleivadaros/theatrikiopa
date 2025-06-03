@@ -1,6 +1,15 @@
 ---
 title: Αντιγόνη του Μπρεχτ
 ---
+import Seo from '@site/src/components/Seo';
+
+<Seo 
+  title="Αντιγόνη του Μπρεχτ"
+  description="Μια διασκευή της Αντιγόνης τοποθετημένη στο Βερολίνο του 1945, με την υπογραφή του Μπρεχτ. Μια κραυγή ενάντια στον πόλεμο και την υποταγή."
+  image="https://theatrikiopa.vercel.app/img/antigoni-tou-brecht/poster.jpg"
+  imageAlt="Αφίσα της παράστασης Αντιγόνη του Μπρεχτ"
+  url="https://theatrikiopa.vercel.app/parastaseis/2016/antigoni-tou-brecht"
+/>
 
 # Αντιγόνη του Μπρεχτ
 
