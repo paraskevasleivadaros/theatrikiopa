@@ -1,6 +1,15 @@
 ---
 title: Το Πράσινο Μίλι
 ---
+import Seo from '@site/src/components/Seo';
+
+<Seo 
+  title="Το Πράσινο Μίλι"
+  description="Μια θεατρική διασκευή του κλασικού έργου 'Το Πράσινο Μίλι', εμπνευσμένη από το βιβλίο του Stephen King. Ζήσε την ένταση και το δράμα μέσα στις φυλακές του Cold Mountain."
+  image="https://theatrikiopa.vercel.app/img/prasino-mili/poster.jpg"
+  imageAlt="Αφίσα της παράστασης Το Πράσινο Μίλι"
+  url="https://theatrikiopa.vercel.app/parastaseis/2018/prasino-mili"
+/>
 
 # Το Πράσινο Μίλι
 
