@@ -1,6 +1,15 @@
 ---
 title: Ζυγίζω μηδέν κιλά
 ---
+import Seo from '@site/src/components/Seo';
+
+<Seo 
+  title="Ζυγίζω μηδέν κιλά"
+  description="Μια σειρά μονόπρακτων για τη ματαιότητα, την τρέλα και την αυθεντικότητα της ανθρώπινης ύπαρξης. Παράσταση της Θεατρικής Ομάδας ΟΠΑ"
+  image="https://theatrikiopa.vercel.app/img/zygizw-mhden-kila/poster.jpg"
+  imageAlt="Αφίσα της παράστασης Ζυγίζω μηδέν κιλά"
+  url="https://theatrikiopa.vercel.app/parastaseis/2019/zygizw-mhden-kila"
+/>
 
 # Ζυγίζω μηδέν κιλά
 
