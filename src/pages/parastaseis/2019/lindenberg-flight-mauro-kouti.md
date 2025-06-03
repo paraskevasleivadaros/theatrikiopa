@@ -1,6 +1,15 @@
 ---
 title: Η Πτήση των Λίντμπεργκ ή Το μαύρο κουτί
 ---
+import Seo from '@site/src/components/Seo';
+
+<Seo 
+  title="Η Πτήση των Λίντμπεργκ ή Το μαύρο κουτί"
+  description="Ένα εκστατικό μιούζικαλ βασισμένο στον Μπρεχτ, με δέκα ηθοποιούς να ενσαρκώνουν τον Τσαρλς Λίντμπεργκ μέσα από τις μνήμες ενός μαύρου κουτιού."
+  image="https://theatrikiopa.vercel.app/img/lindenberg-flight-mauro-kouti/01.jpg"
+  imageAlt="Σκηνή από την παράσταση Η Πτήση των Λίντμπεργκ ή Το μαύρο κουτί"
+  url="https://theatrikiopa.vercel.app/parastaseis/2019/lindenberg-flight"
+/>
 
 # Η Πτήση των Λίντμπεργκ ή Το μαύρο κουτί
 
