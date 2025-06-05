@@ -44,6 +44,42 @@ import Seo from '@site/src/components/Seo';
 **Είσοδος Ελεύθερη**  
 <GoogleMapEmbed src="https://google.com/maps/embed?pb=!1m18!1m12!1m3!1d3144.8875045136874!2d23.71056357589312!3d37.979754571934414!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x14a1bce0b04a05c5%3A0xaeac96ecfdcfef6c!2zzpjOrc6xz4TPgc6_IM6GzrLOsc-Ezr_OvQ!5e0!3m2!1sel!2sca!4v1748537403457!5m2!1sel!2sca"/>
 
+<form
+  action="https://formsubmit.co/minimarous@gmail.com"
+  method="POST"
+  style={{ maxWidth: '500px', textAlign: 'left' }}
+>
+  <label>Ημερομηνία:<br />
+    <select name="Ημερομηνία" required>
+      <option value="">Επιλέξτε ημερομηνία</option>
+      <option value="2025-06-10">10 Ιουνίου 2025</option>
+      <option value="2025-06-11">11 Ιουνίου 2025</option>
+      <option value="2025-06-11">20 Ιουνίου 2025</option>
+      <option value="2025-06-11">21 Ιουνίου 2025</option>
+      <option value="2025-06-11">22 Ιουνίου 2025</option>
+      <option value="2025-06-11">23 Ιουνίου 2025</option>
+    </select>
+  </label><br /><br />
+
+  <label>Όνομα:<br />
+    <input type="text" name="Όνομα" required />
+  </label><br /><br />
+
+  <label>Email:<br />
+    <input type="email" name="Email" required />
+  </label><br /><br />
+
+  <label>Αριθμός Θέσεων:<br />
+    <input type="number" name="Αριθμός Θέσεων" min="1" required />
+  </label><br /><br />
+
+  <!-- Optional settings -->
+  <input type="hidden" name="_captcha" value="false" />
+  <input type="hidden" name="_next" value="https://yourdomain.com/thank-you" />
+
+  <button type="submit">Υποβολή Κράτησης</button>
+</form>
+
 ## Συντελεστές
 **Σκηνοθεσία**: Σπύρος Χαϊντούτης  
 **Βοηθός Σκηνοθέτη**: Μαρίνα Σολιδάκη  
