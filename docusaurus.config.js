@@ -181,11 +181,11 @@ const config = {
             items: [              
               {
                 label: 'Πολιτική Cookies',
-                to: '/terms-and-conditions/cookies',
+                to: '/terms-and-conditions#πολιτική-cookies',
               },
               {
                 label: 'Πολιτική Απορρήτου',
-                to: '/terms-and-conditions/privacy-policy',
+                to: '/terms-and-conditions#πολιτική-απορρήτου,
               },   
               {
                 label: 'Γενικοί Όροι Χρήσης',
