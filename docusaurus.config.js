@@ -180,17 +180,17 @@ const config = {
             title: 'Όροι και Προϋποθέσεις',
             items: [              
               {
-                label: 'Πολιτική Cookies',
-                to: '/terms-and-conditions#πολιτική-cookies',
+                label: 'Γενικοί Όροι Χρήσης',
+                to: '/terms-and-conditions',
               },
               {
                 label: 'Πολιτική Απορρήτου',
-                to: '/terms-and-conditions#πολιτική-απορρήτου,
+                to: '/terms-and-conditions#πολιτική-απορρήτου',
               },   
               {
-                label: 'Γενικοί Όροι Χρήσης',
-                to: '/terms-and-conditions',
-              },              
+                label: 'Πολιτική Cookies',
+                to: '/terms-and-conditions#πολιτική-cookies',
+              },               
             ],
           },
           {
