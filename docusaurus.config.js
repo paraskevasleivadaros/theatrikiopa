@@ -100,8 +100,7 @@ const config = {
             label: 'Επικοινωνία',
             position: 'left',
             items: [
-              //{ label: 'Ένωση', to: '/contact/enosi' },
-              { label: 'Σχετικά Με', to: '/contact/about' },              
+              //{ label: 'Ένωση', to: '/contact/enosi' },          
               { label: 'Συχνές Ερωτήσεις', to: '/contact/faq' },
               //{ label: 'Ενημερωτικό Δελτίο', to: '/contact/newsletter' },        
               { label: 'Τρόπoς Λειτουργίας', to: '/contact/tropos-leitourgias' },                  
@@ -170,7 +169,6 @@ const config = {
           {
             title: 'Επικοινωνία',
             items: [            
-              { label: 'Σχετικά Με', to: '/contact/about' },
               { label: 'Συχνές Ερωτήσεις', to: '/contact/faq' },
               { label: 'Τρόπoς Λειτουργίας', to: '/contact/tropos-leitourgias' },
               { label: 'Στοιχεία Επικοινωνίας', to: '/contact' },                
