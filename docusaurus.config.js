@@ -175,10 +175,10 @@ const config = {
             ],
           },          
           {
-            title: 'Όροι και Προϋποθέσεις',
+            title: 'Σχετικά',
             items: [              
               {
-                label: 'Γενικοί Όροι Χρήσης',
+                label: 'Όροι και Προϋποθέσεις',
                 to: '/terms-and-conditions',
               },
               {
