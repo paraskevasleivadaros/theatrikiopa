@@ -1397,14 +1397,7 @@
     "@csstools/postcss-progressive-custom-properties" "^4.1.0"
     "@csstools/utilities" "^2.0.0"
 
-"@csstools/postcss-progressive-custom-properties@^4.1.0":
-  version "4.2.0"
-  resolved "https://registry.yarnpkg.com/@csstools/postcss-progressive-custom-properties/-/postcss-progressive-custom-properties-4.2.0.tgz#7f15349c2cd108478d28e1503c660d4037925030"
-  integrity sha512-fWCXRasX17N1NCPTCuwC3FJDV+Wc031f16cFuuMEfIsYJ1q5ABCa59W0C6VeMGqjNv6ldf37vvwXXAeaZjD9PA==
-  dependencies:
-    postcss-value-parser "^4.2.0"
-
-"@csstools/postcss-progressive-custom-properties@^4.2.0":
+"@csstools/postcss-progressive-custom-properties@^4.1.0", "@csstools/postcss-progressive-custom-properties@^4.2.0":
   version "4.2.0"
   resolved "https://registry.yarnpkg.com/@csstools/postcss-progressive-custom-properties/-/postcss-progressive-custom-properties-4.2.0.tgz#7f15349c2cd108478d28e1503c660d4037925030"
   integrity sha512-fWCXRasX17N1NCPTCuwC3FJDV+Wc031f16cFuuMEfIsYJ1q5ABCa59W0C6VeMGqjNv6ldf37vvwXXAeaZjD9PA==
@@ -8402,9 +8395,9 @@ svgo@^3.0.2, svgo@^3.2.0:
     picocolors "^1.0.0"
 
 tapable@^2.0.0, tapable@^2.1.1, tapable@^2.2.0, tapable@^2.2.1:
-  version "2.2.1"
-  resolved "https://registry.npmjs.org/tapable/-/tapable-2.2.1.tgz"
-  integrity sha512-GNzQvQTOIP6RyTfE2Qxb8ZVlNmw0n88vp1szwWRimP02mnTsx3Wtn5qRdqY9w2XduFNUgvOwhNnQsjwCp+kqaQ==
+  version "2.2.3"
+  resolved "https://registry.yarnpkg.com/tapable/-/tapable-2.2.3.tgz#4b67b635b2d97578a06a2713d2f04800c237e99b"
+  integrity sha512-ZL6DDuAlRlLGghwcfmSn9sK3Hr6ArtyudlSAiCqQ6IfE+b+HHbydbYDIG15IfS5do+7XQQBdBiubF/cV2dnDzg==
 
 terser-webpack-plugin@^5.3.11, terser-webpack-plugin@^5.3.9:
   version "5.3.14"
