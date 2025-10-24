@@ -1,15 +1,8 @@
 ---
 title: Εκκλησιάζουσες του Αριστοφάνη
+description: Οι γυναίκες παίρνουν την εξουσία στα χέρια τους! Μια σύγχρονη σκηνική απόδοση της κλασικής κωμωδίας του Αριστοφάνη από τη Θεατρική Ομάδα ΟΠΑ.
+image: /img/ekklisiazouses-tou-aristofanh/poster.jpg
 ---
-import Seo from '@site/src/components/Seo';
-
-<Seo 
-  title="Εκκλησιάζουσες του Αριστοφάνη"
-  description="Οι γυναίκες παίρνουν την εξουσία στα χέρια τους! Μια σύγχρονη σκηνική απόδοση της κλασικής κωμωδίας του Αριστοφάνη από τη Θεατρική Ομάδα ΟΠΑ."
-  image="https://theatrikiopa.vercel.app/img/ekklisiazouses-tou-aristofanh/poster.jpg"
-  imageAlt="Αφίσα της παράστασης Εκκλησιάζουσες του Αριστοφάνη"
-  url="https://theatrikiopa.vercel.app/parastaseis/2016/ekklisiazouses-tou-aristofanh"
-/>
 
 # Εκκλησιάζουσες του Αριστοφάνη
 ![ekklisiazouses-tou-aristofanh-poster](/img/ekklisiazouses-tou-aristofanh/poster.jpg)

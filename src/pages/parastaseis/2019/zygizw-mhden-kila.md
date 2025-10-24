@@ -1,15 +1,8 @@
 ---
 title: Ζυγίζω μηδέν κιλά
+description: Η Θεατρική Ομάδα ΟΠΑ παρουσιάζει το "Ο Τρωικός Πόλεμος δεν θα γίνει" του Ζαν Ζιρωντού. Μια έκκληση για ειρήνη, με φόντο τον μύθο της Τροίας και διαχρονικά κοινωνικά ζητήματα.
+image: /img/o-troikos-polemos-den-tha-ginei/poster.jpg
 ---
-import Seo from '@site/src/components/Seo';
-
-<Seo 
-  title="Ζυγίζω μηδέν κιλά"
-  description="Μια σειρά μονόπρακτων για τη ματαιότητα, την τρέλα και την αυθεντικότητα της ανθρώπινης ύπαρξης. Παράσταση της Θεατρικής Ομάδας ΟΠΑ"
-  image="https://theatrikiopa.vercel.app/img/zygizw-mhden-kila/poster.jpg"
-  imageAlt="Αφίσα της παράστασης Ζυγίζω μηδέν κιλά"
-  url="https://theatrikiopa.vercel.app/parastaseis/2019/zygizw-mhden-kila"
-/>
 
 # Ζυγίζω μηδέν κιλά
 ![zygizw-mhden-kila-poster](/img/zygizw-mhden-kila/poster.jpg)
