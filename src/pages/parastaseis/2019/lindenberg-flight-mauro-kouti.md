@@ -1,15 +1,8 @@
 ---
 title: Η Πτήση των Λίντμπεργκ ή Το μαύρο κουτί
+description: Μια διασκευή του έργου «Η Υπερπόντια Πτήση» του Μπέρτολτ Μπρεχτ από τη Θεατρική Ομάδα ΟΠΑ. Ένα εκστατικό μιούζικαλ για τα ακατόρθωτα όνειρα, την πρόοδο και τη σύγχρονη ανθρωπότητα.
+image: /img/lindenberg-flight-mauro-kouti/01.jpg
 ---
-import Seo from '@site/src/components/Seo';
-
-<Seo 
-  title="Η Πτήση των Λίντμπεργκ ή Το μαύρο κουτί"
-  description="Ένα εκστατικό μιούζικαλ βασισμένο στον Μπρεχτ, με δέκα ηθοποιούς να ενσαρκώνουν τον Τσαρλς Λίντμπεργκ μέσα από τις μνήμες ενός μαύρου κουτιού."
-  image="https://theatrikiopa.vercel.app/img/lindenberg-flight-mauro-kouti/01.jpg"
-  imageAlt="Σκηνή από την παράσταση Η Πτήση των Λίντμπεργκ ή Το μαύρο κουτί"
-  url="https://theatrikiopa.vercel.app/parastaseis/2019/lindenberg-flight"
-/>
 
 # Η Πτήση των Λίντμπεργκ ή Το μαύρο κουτί
 ![lindenberg-flight-mauro-kouti-01](/img/lindenberg-flight-mauro-kouti/01.jpg)

@@ -1,15 +1,8 @@
 ---
 title: Ο Τρωικός Πόλεμος δεν θα γίνει
+description: Η Θεατρική Ομάδα ΟΠΑ παρουσιάζει το "Ο Τρωικός Πόλεμος δεν θα γίνει" του Ζαν Ζιρωντού. Μια έκκληση για ειρήνη, με φόντο τον μύθο της Τροίας και διαχρονικά κοινωνικά ζητήματα.
+image: /img/o-troikos-polemos-den-tha-ginei/poster.jpg
 ---
-import Seo from '@site/src/components/Seo';
-
-<Seo 
-  title="Ο Τρωικός Πόλεμος δεν θα γίνει"
-  description="Μια παράσταση της Θεατρικής Ομάδας ΟΠΑ βασισμένη στο έργο του Ζαν Ζιρωντού, μια έκκληση για ειρήνη λίγα χρόνια πριν τον Β' Παγκόσμιο Πόλεμο."
-  image="https://theatrikiopa.vercel.app/img/o-troikos-polemos-den-tha-ginei/poster.jpg"
-  imageAlt="Αφίσα της παράστασης Ο Τρωικός Πόλεμος δεν θα γίνει"
-  url="https://theatrikiopa.vercel.app/parastaseis/2019/o-troikos-polemos-den-tha-ginei"
-/>
 
 # Ο Τρωικός Πόλεμος δεν θα γίνει
 ![o-troikos-polemos-den-tha-ginei](/img/o-troikos-polemos-den-tha-ginei/poster.jpg)

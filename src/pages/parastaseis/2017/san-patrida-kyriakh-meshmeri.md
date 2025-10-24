@@ -1,15 +1,8 @@
 ---
 title: Σαν πατρίδα Κυριακή μεσημέρι
+description: Μια παράσταση της Θεατρικής Ομάδας ΟΠΑ για τη μετανάστευση, την αναζήτηση, τα όνειρα και την έννοια της πατρίδας. Ένα ταξίδι ζωής γεμάτο συναισθήματα και ιστορίες.
+image: /img/san-patrida-kyriakh-meshmeri/poster.jpg
 ---
-import Seo from '@site/src/components/Seo';
-
-<Seo 
-  title="Σαν πατρίδα Κυριακή μεσημέρι"
-  description="Μια παράσταση για τη μετανάστευση, την αναζήτηση της πατρίδας και το όνειρο της ευτυχίας, βασισμένη σε κείμενα γνωστών Ελλήνων συγγραφέων."
-  image="https://theatrikiopa.vercel.app/img/san-patrida-kyriakh-meshmeri/poster.jpg"
-  imageAlt="Αφίσα της παράστασης Σαν πατρίδα Κυριακή μεσημέρι"
-  url="https://theatrikiopa.vercel.app/parastaseis/2017/san-patrida-kyriakh-meshmeri"
-/>
 
 # Σαν πατρίδα Κυριακή μεσημέρι
 ![san-patrida-kyriakh-meshmeri-poster](/img/san-patrida-kyriakh-meshmeri/poster.jpg)

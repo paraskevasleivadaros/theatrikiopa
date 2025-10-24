@@ -1,15 +1,8 @@
 ---
 title: Αντιγόνη του Μπρεχτ
+description: Η Θεατρική Ομάδα ΟΠΑ παρουσιάζει την "Αντιγόνη" του Μπρεχτ, ένα έργο για τη δικαιοσύνη, τη λογική, την αγάπη και την αντίσταση στον φασισμό, τοποθετημένο στο Βερολίνο του 1945.
+image: /img/antigoni-tou-brecht/poster.jpg
 ---
-import Seo from '@site/src/components/Seo';
-
-<Seo 
-  title="Αντιγόνη του Μπρεχτ"
-  description="Μια διασκευή της Αντιγόνης τοποθετημένη στο Βερολίνο του 1945, με την υπογραφή του Μπρεχτ. Μια κραυγή ενάντια στον πόλεμο και την υποταγή."
-  image="https://theatrikiopa.vercel.app/img/antigoni-tou-brecht/poster.jpg"
-  imageAlt="Αφίσα της παράστασης Αντιγόνη του Μπρεχτ"
-  url="https://theatrikiopa.vercel.app/parastaseis/2016/antigoni-tou-brecht"
-/>
 
 # Αντιγόνη του Μπρεχτ
 ![antigoni-tou-brecht-poster](/img/antigoni-tou-brecht/poster.jpg)
