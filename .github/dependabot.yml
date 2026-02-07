@@ -9,10 +9,8 @@ updates:
   - package-ecosystem: "npm"
     directory: "/"
     schedule:
-      interval: "monthly"
-      day: "monday"
-      time: "04:00"
-    open-pull-requests-limit: 5
+      interval: "yearly"
+    open-pull-requests-limit: 10
     allow:
       - dependency-type: "all"
 
@@ -20,7 +18,5 @@ updates:
   - package-ecosystem: "github-actions"
     directory: "/"
     schedule:
-      interval: "monthly"
-      day: "monday"
-      time: "04:00"
-    open-pull-requests-limit: 5
+      interval: "yearly"
+    open-pull-requests-limit: 10
