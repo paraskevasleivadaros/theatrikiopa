@@ -8,6 +8,12 @@ image: /img/gioi-kai-kores-tou-gianni-kalavrianou/06.jpg
 ![gioi-kai-kores-tou-gianni-kalavrianou-06](/img/gioi-kai-kores-tou-gianni-kalavrianou/06.jpg)  
 Η ομάδα ανεβάζει κάθε χρόνο μία ή περισσότερες παραστάσεις, ανάλογα με τον αριθμό των ατόμων που δηλώνουν συμμετοχή. Η προετοιμασία των παραστάσεων ξεκινά τον Ιανουάριο και η παρουσίασή τους γίνεται τον Μάιο, σε θέατρα της Αθήνας.
 
+## 2026
+### [Στην καρδιά της Ταλαρλάνδης](/parastaseis/2026/talarlandi)
+![talarlandi](/img/talarlandi/poster.png)  
+Σκηνοθεσία: Υψιπύλη Σοφιά
+- Θέατρο Φρένο
+
 ## 2025
 ### [Μικροί πυροβολισμοί μέσα στη νύχτα](/parastaseis/2025/mikroi-pirovolismoi-mesa-sti-nixta)
 ![mikroi-pirovolismoi-mesa-sti-nixta](/img/mikroi-pirovolismoi-mesa-sti-nixta/09.png)  
