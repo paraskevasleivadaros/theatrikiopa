@@ -90,9 +90,9 @@ const config = {
             label: 'Παραστάσεις',
             position: 'left',
             items: [   
+              { label: '2026', to: '/parastaseis#2026' },
               { label: '2025', to: '/parastaseis#2025' },
-              { label: '2024', to: '/parastaseis#2024' },
-              { label: 'Περισσότερα...', to: '/parastaseis#2023' },      
+              { label: 'Περισσότερα...', to: '/parastaseis#2024' },      
             ],
           },                   
           {
@@ -161,8 +161,8 @@ const config = {
           {
             title: 'Παραστάσεις',
             items: [
+              { label: '2026', to: '/parastaseis#2026' },
               { label: '2025', to: '/parastaseis#2025' },
-              { label: '2024', to: '/parastaseis#2024' },
               { label: 'Περισσότερα…', to: '/parastaseis' },
             ],
           },
