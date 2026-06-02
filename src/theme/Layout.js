@@ -1,8 +1,11 @@
 import React from 'react';
 import clsx from 'clsx';
 import ErrorBoundary from '@docusaurus/ErrorBoundary';
-import {PageMetadata, ThemeClassNames} from '@docusaurus/theme-common';
-import {useKeyboardNavigation} from '@docusaurus/theme-common/internal';
+import {
+  PageMetadata,
+  SkipToContentFallbackId,
+  ThemeClassNames,
+} from '@docusaurus/theme-common';
 import SkipToContent from '@theme/SkipToContent';
 import AnnouncementBar from '@theme/AnnouncementBar';
 import Navbar from '@theme/Navbar';
@@ -25,8 +28,6 @@ export default function Layout(props) {
     description,
   } = props;
 
-  useKeyboardNavigation();
-
   return (
     <LayoutProvider>
       <PageMetadata title={title} description={description} />
@@ -34,7 +35,9 @@ export default function Layout(props) {
       <AnnouncementBar />
       <Navbar />
       <div
+        id={SkipToContentFallbackId}
         className={clsx(
+          ThemeClassNames.layout.main.container,
           ThemeClassNames.wrapper.main,
           styles.mainWrapper,
           wrapperClassName,
