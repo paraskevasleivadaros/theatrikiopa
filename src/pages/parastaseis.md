@@ -117,7 +117,7 @@ image: /img/gioi-kai-kores-tou-gianni-kalavrianou/06.jpg
 Ένα εξαήμερο θεατρικό φεστιβάλ εργαστηρίων και παραστάσεων
 - Πολυχώρος Άννα & Μαρία Καλουτά
 
-### [Εκκλησιάζουσες του Αριστοφάνη](parastaseis/2016/ekklisiazouses-tou-aristofanh)
+### [Εκκλησιάζουσες του Αριστοφάνη](/parastaseis/2016/ekklisiazouses-tou-aristofanh)
 ![ekklisiazouses-tou-aristofanh-poster](/img/ekklisiazouses-tou-aristofanh/poster.jpg)  
 Σκηνοθεσία: Χαρά Καραβασιλείου
 - Altera Pars
