@@ -6,6 +6,7 @@ image: /img/talarlandi/poster.png
 
 import ResponsiveYouTube from '@site/src/components/ResponsiveYouTube';
 import GoogleMapEmbed from '@site/src/components/GoogleMapEmbed'; 
+import ResponsivePDF from '@site/src/components/ResponsivePDF';
 
 # Στην καρδιά της Ταλαρλάνδης
 ![talarlandi](/img/talarlandi/poster.png)
@@ -21,6 +22,8 @@ import GoogleMapEmbed from '@site/src/components/GoogleMapEmbed';
 Όταν όλα τελειώσουν η αθωότητα θα θριαμβεύσει σε πείσμα κάθε φθοράς.
 
 ## Πληροφορίες
+<ResponsivePDF pdfUrl="/doc/talarlandi/talarlandi-programma.pdf"/>
+
 ### Θέατρο Φρένο  
 **Διεύθυνση**: Χαλκιδικής 34, Αθήνα  
 **Ημερομηνίες**: 6, 10, 11 και 13 Ιουνίου - **Ώρα Έναρξης**: **21:00**  
