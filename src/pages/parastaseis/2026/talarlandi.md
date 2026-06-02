@@ -22,6 +22,8 @@ import ResponsivePDF from '@site/src/components/ResponsivePDF';
 Όταν όλα τελειώσουν η αθωότητα θα θριαμβεύσει σε πείσμα κάθε φθοράς.
 
 ## Πληροφορίες
+Κατεβάστε το πρόγραμμα της παράστασης [εδώ](https://theatrikiopa.vercel.app/doc/talarlandi/talarlandi-programma.pdf)
+
 <ResponsivePDF pdfUrl="/doc/talarlandi/talarlandi-programma.pdf"/>
 
 ### Θέατρο Φρένο  
