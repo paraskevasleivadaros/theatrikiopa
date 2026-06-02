@@ -8,10 +8,10 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 const config = {
   title: 'Θεατρική Ομάδα ΟΠΑ',
   tagline: 'Οικονομικό Πανεπιστήμιο Αθηνών',
-  url: 'https://theatre.aueb.gr',
+  url: 'https://theatrikiopa.vercel.app',
   baseUrl: '/',
   customFields: {
-    siteBaseUrl: 'https://theatre.aueb.gr',
+    siteBaseUrl: 'https://theatrikiopa.vercel.app',
     siteDisplayName: 'theatre.aueb.gr',
   },
   onBrokenLinks: 'throw',
