@@ -293,6 +293,13 @@
   dependencies:
     "@babel/types" "^7.27.3"
 
+"@babel/helper-annotate-as-pure@^7.29.7":
+  version "7.29.7"
+  resolved "https://registry.yarnpkg.com/@babel/helper-annotate-as-pure/-/helper-annotate-as-pure-7.29.7.tgz#c70fe3c6ecbdc3fd2dd1b0f498428b88b82ce47f"
+  integrity sha512-OoK6239jHPuSQOoS0kfTVKn0b/rVTk0seKq4Gd2UMLtmOVLjDC0ki3e+c90Trqv2gMfvJFqkiljrr568+qddiw==
+  dependencies:
+    "@babel/types" "^7.29.7"
+
 "@babel/helper-compilation-targets@^7.22.6", "@babel/helper-compilation-targets@^7.27.1", "@babel/helper-compilation-targets@^7.27.2":
   version "7.27.2"
   resolved "https://registry.npmjs.org/@babel/helper-compilation-targets/-/helper-compilation-targets-7.27.2.tgz"
@@ -974,12 +981,12 @@
     "@babel/types" "^7.27.1"
 
 "@babel/plugin-transform-react-pure-annotations@^7.27.1":
-  version "7.27.1"
-  resolved "https://registry.npmjs.org/@babel/plugin-transform-react-pure-annotations/-/plugin-transform-react-pure-annotations-7.27.1.tgz"
-  integrity sha512-JfuinvDOsD9FVMTHpzA/pBLisxpv1aSf+OIV8lgH3MuWrks19R27e6a6DipIg4aX1Zm9Wpb04p8wljfKrVSnPA==
+  version "7.29.7"
+  resolved "https://registry.yarnpkg.com/@babel/plugin-transform-react-pure-annotations/-/plugin-transform-react-pure-annotations-7.29.7.tgz#76445c90112dd0a7371b63264563bfa9a4fcd6e3"
+  integrity sha512-H5E+HBgDpr6Q5t+Aj11tL7XkIui1jhbIoArVQnqjgXo5/3YxkN7ZEBcWF4RQlB0T4rrxJQbXS6kiFV6B7XTqUA==
   dependencies:
-    "@babel/helper-annotate-as-pure" "^7.27.1"
-    "@babel/helper-plugin-utils" "^7.27.1"
+    "@babel/helper-annotate-as-pure" "^7.29.7"
+    "@babel/helper-plugin-utils" "^7.29.7"
 
 "@babel/plugin-transform-regenerator@^7.28.3":
   version "7.28.4"
