@@ -10,9 +10,7 @@ import GoogleMapEmbed from '@site/src/components/GoogleMapEmbed';
 # Η Ρουτίνα ενός Χάρη
 ![i-routina-enos-hari](/img/i-routina-enos-hari/poster.png)
 
-
 <SpotifyEmbed src="https://open.spotify.com/album/6mmyaI0Xv24Unis2zzuvvc?si=CJXYQnBfTJ-vnUSCofuObw" />
-
 
 Υπάρχουν δύο κόσμοι.
 
@@ -29,7 +27,6 @@ import GoogleMapEmbed from '@site/src/components/GoogleMapEmbed';
 Γιατί ίσως το μεγαλύτερο ερώτημα να μην είναι αν θα πεθάνουμε.
 
 Ίσως το μεγαλύτερο ερώτημα να είναι αν θα βρούμε το θάρρος να ζήσουμε πραγματικά μέχρι τότε.
-
 
 ### Θέατρο Ελεύθερη Έκφραση
 **Διεύθυνση**: Λέσβου 8, Αθήνα 112 56  
