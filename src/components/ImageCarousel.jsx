@@ -2,6 +2,8 @@ import React, { useState, useRef } from 'react';
 
 export default function ImageCarousel({ images = [] }) {
   const [current, setCurrent] = useState(0);
+  const [animating, setAnimating] = useState(true);
+
   const startX = useRef(0);
   const endX = useRef(0);
 
@@ -13,41 +15,13 @@ export default function ImageCarousel({ images = [] }) {
     setCurrent((c) => (c === images.length - 1 ? 0 : c + 1));
   };
 
-  const onTouchStart = (e) => {
-    startX.current = e.touches[0].clientX;
-  };
-
-  const onTouchMove = (e) => {
-    endX.current = e.touches[0].clientX;
-  };
-
-  const onTouchEnd = () => {
-    handleSwipe();
-  };
-
-  const onMouseDown = (e) => {
-    startX.current = e.clientX;
-  };
-
-  const onMouseUp = (e) => {
-    endX.current = e.clientX;
-    handleSwipe();
-  };
-
   const handleSwipe = () => {
     const diff = startX.current - endX.current;
-
-    // threshold so tiny movements don't trigger swipe
     const threshold = 50;
 
-    if (diff > threshold) {
-      next(); // swipe left → next image
-    } else if (diff < -threshold) {
-      prev(); // swipe right → previous image
-    }
+    if (diff > threshold) next();
+    else if (diff < -threshold) prev();
   };
-
-  if (!images.length) return null;
 
   return (
     <div
@@ -55,42 +29,52 @@ export default function ImageCarousel({ images = [] }) {
         width: '100%',
         margin: '20px 0',
         position: 'relative',
-        userSelect: 'none',
+        overflow: 'hidden',
+        borderRadius: '10px',
       }}
     >
-      {/* Image */}
+      {/* Track */}
       <div
         style={{
-          width: '100%',
-          borderRadius: '10px',
-          overflow: 'hidden',
+          display: 'flex',
+          transform: `translateX(-${current * 100}%)`,
+          transition: animating ? 'transform 400ms ease' : 'none',
+          width: `${images.length * 100}%`,
         }}
       >
-        <img
-          src={images[current]}
-          alt={`Slide ${current + 1}`}
-          draggable={false}
-          onTouchStart={onTouchStart}
-          onTouchMove={onTouchMove}
-          onTouchEnd={onTouchEnd}
-          onMouseDown={onMouseDown}
-          onMouseUp={onMouseUp}
-          style={{
-            width: '100%',
-            display: 'block',
-            cursor: 'grab',
-          }}
-        />
+        {images.map((img, i) => (
+          <div
+            key={i}
+            style={{
+              width: `${100 / images.length}%`,
+              flexShrink: 0,
+            }}
+          >
+            <img
+              src={img}
+              alt={`Slide ${i + 1}`}
+              draggable={false}
+              onTouchStart={(e) => (startX.current = e.touches[0].clientX)}
+              onTouchMove={(e) => (endX.current = e.touches[0].clientX)}
+              onTouchEnd={handleSwipe}
+              onMouseDown={(e) => (startX.current = e.clientX)}
+              onMouseUp={(e) => {
+                endX.current = e.clientX;
+                handleSwipe();
+              }}
+              style={{
+                width: '100%',
+                display: 'block',
+                userSelect: 'none',
+              }}
+            />
+          </div>
+        ))}
       </div>
 
-      {/* Controls */}
-      <button onClick={prev} style={buttonStyle('left')}>
-        ‹
-      </button>
-
-      <button onClick={next} style={buttonStyle('right')}>
-        ›
-      </button>
+      {/* Buttons */}
+      <button onClick={prev} style={buttonStyle('left')}>‹</button>
+      <button onClick={next} style={buttonStyle('right')}>›</button>
 
       {/* Dots */}
       <div
@@ -111,6 +95,7 @@ export default function ImageCarousel({ images = [] }) {
               borderRadius: '50%',
               background: i === current ? '#333' : '#bbb',
               cursor: 'pointer',
+              transition: '0.2s',
             }}
           />
         ))}
@@ -133,5 +118,6 @@ function buttonStyle(side) {
     borderRadius: '50%',
     cursor: 'pointer',
     fontSize: '20px',
+    zIndex: 2,
   };
 }
