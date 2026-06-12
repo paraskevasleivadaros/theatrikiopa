@@ -1,40 +1,43 @@
-import React, { useState } from 'react';
+import React from 'react';
 
-export default function ImageGallery({ images = [] }) {
-  const [selectedImage, setSelectedImage] = useState(null);
-
+const ImageGallery = ({ images = [] }) => {
   return (
-    <>
-      <div className={styles.gallery}>
-        {images.map((src, index) => (
-          <button
-            key={index}
-            className={styles.imageButton}
-            onClick={() => setSelectedImage(src)}
-            type="button"
-          >
-            <img
-              src={src}
-              alt={`Φωτογραφία ${index + 1}`}
-              className={styles.image}
-              loading="lazy"
-            />
-          </button>
-        ))}
-      </div>
-
-      {selectedImage && (
+    <div
+      style={{
+        display: 'grid',
+        gridTemplateColumns: 'repeat(auto-fit, minmax(250px, 1fr))',
+        gap: '16px',
+        width: '100%',
+        margin: '0 0 20px 0',
+      }}
+    >
+      {images.map((image, index) => (
         <div
-          className={styles.modal}
-          onClick={() => setSelectedImage(null)}
+          key={index}
+          style={{
+            position: 'relative',
+            width: '100%',
+            paddingBottom: '75%', // 4:3 aspect ratio
+            overflow: 'hidden',
+            borderRadius: '8px',
+          }}
         >
           <img
-            src={selectedImage}
-            alt="Μεγέθυνση φωτογραφίας"
-            className={styles.modalImage}
+            src={image}
+            alt={`Gallery image ${index + 1}`}
+            style={{
+              position: 'absolute',
+              top: 0,
+              left: 0,
+              width: '100%',
+              height: '100%',
+              objectFit: 'cover',
+            }}
           />
         </div>
-      )}
-    </>
+      ))}
+    </div>
   );
-}
+};
+
+export default ImageGallery;
