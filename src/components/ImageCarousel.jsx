@@ -2,22 +2,22 @@ import React, { useState, useRef } from 'react';
 
 export default function ImageCarousel({ images = [] }) {
   const [current, setCurrent] = useState(0);
-  const [animating, setAnimating] = useState(true);
 
   const startX = useRef(0);
   const endX = useRef(0);
-
-  const prev = () => {
-    setCurrent((c) => (c === 0 ? images.length - 1 : c - 1));
-  };
+  const isDragging = useRef(false);
 
   const next = () => {
     setCurrent((c) => (c === images.length - 1 ? 0 : c + 1));
   };
 
+  const prev = () => {
+    setCurrent((c) => (c === 0 ? images.length - 1 : c - 1));
+  };
+
   const handleSwipe = () => {
     const diff = startX.current - endX.current;
-    const threshold = 50;
+    const threshold = 60;
 
     if (diff > threshold) next();
     else if (diff < -threshold) prev();
@@ -38,15 +38,14 @@ export default function ImageCarousel({ images = [] }) {
         style={{
           display: 'flex',
           transform: `translateX(-${current * 100}%)`,
-          transition: animating ? 'transform 400ms ease' : 'none',
-          width: `${images.length * 100}%`,
+          transition: 'transform 450ms ease',
         }}
       >
         {images.map((img, i) => (
           <div
             key={i}
             style={{
-              width: `${100 / images.length}%`,
+              minWidth: '100%',
               flexShrink: 0,
             }}
           >
@@ -54,19 +53,35 @@ export default function ImageCarousel({ images = [] }) {
               src={img}
               alt={`Slide ${i + 1}`}
               draggable={false}
-              onTouchStart={(e) => (startX.current = e.touches[0].clientX)}
-              onTouchMove={(e) => (endX.current = e.touches[0].clientX)}
-              onTouchEnd={handleSwipe}
-              onMouseDown={(e) => (startX.current = e.clientX)}
-              onMouseUp={(e) => {
-                endX.current = e.clientX;
-                handleSwipe();
-              }}
               style={{
                 width: '100%',
                 display: 'block',
                 userSelect: 'none',
+                pointerEvents: 'none', // 👈 important fix for drag issues
               }}
+              onMouseDown={(e) => {
+                isDragging.current = true;
+                startX.current = e.clientX;
+              }}
+              onMouseMove={(e) => {
+                if (!isDragging.current) return;
+                endX.current = e.clientX;
+              }}
+              onMouseUp={() => {
+                if (!isDragging.current) return;
+                isDragging.current = false;
+                handleSwipe();
+              }}
+              onMouseLeave={() => {
+                isDragging.current = false;
+              }}
+              onTouchStart={(e) => {
+                startX.current = e.touches[0].clientX;
+              }}
+              onTouchMove={(e) => {
+                endX.current = e.touches[0].clientX;
+              }}
+              onTouchEnd={handleSwipe}
             />
           </div>
         ))}
@@ -95,7 +110,6 @@ export default function ImageCarousel({ images = [] }) {
               borderRadius: '50%',
               background: i === current ? '#333' : '#bbb',
               cursor: 'pointer',
-              transition: '0.2s',
             }}
           />
         ))}
@@ -117,7 +131,6 @@ function buttonStyle(side) {
     height: '36px',
     borderRadius: '50%',
     cursor: 'pointer',
-    fontSize: '20px',
     zIndex: 2,
   };
 }
