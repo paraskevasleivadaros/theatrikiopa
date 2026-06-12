@@ -1,5 +1,4 @@
 import React, { useState } from 'react';
-import styles from './styles.module.css';
 
 export default function ImageGallery({ images = [] }) {
   const [selectedImage, setSelectedImage] = useState(null);
